@@ -1,8 +1,8 @@
 <!-- Bootstrap -->
-<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="{{ "/assets/bootstrap/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Core JS -->
-<script src="js/core.js"></script>
+<script src="{{ "/js/core.js" | prepend: site.baseurl }}"></script>
 
 {% if site.analytics and jekyll.environment != "development" %}
 <script>
