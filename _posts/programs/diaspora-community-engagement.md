@@ -1,0 +1,12 @@
+---
+layout: program
+title: "Diaspora and Community Engagement (DCE)"
+date: 2017-11-27
+published: true
+permalink: /program/diaspora-community-engagement/
+img: professional-development.jpeg
+categories:
+- programs
+---
+The Diaspora and Community Engagement (DCE) Program looks to strengthen community relations and support the development of a cohesive network through in-person and virtual programming. DCE was developed with the intention of addressing topics that are not usually address in YEP’s regular programming. It will operate as an agent to facilitate community problem solving and identify opportunities of Diaspora mobilization and partnerships.
+
