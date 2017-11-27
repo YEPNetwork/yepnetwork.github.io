@@ -1,17 +1,22 @@
-# yepnetwork.github.com
+# yepnetwork.github.io
 
 Source for https://yepnetwork.github.io/
 
 ## Setup
 
-```
-bundle install
-npm install
-```
+Install bundler:
 
-## Run
+    sudo gem install bundler
 
-```
-gulp
-```
+Install gems:
+
+    bundle install
+
+Install node modules:
+
+    npm install
+
+Run:
+
+    gulp
 
