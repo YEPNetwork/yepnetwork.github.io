@@ -16,6 +16,10 @@ Install node modules:
 
     npm install
 
+Install gulp globally:
+
+    npm install -g gulp
+
 Run:
 
     gulp
