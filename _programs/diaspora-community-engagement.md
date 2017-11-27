@@ -1,8 +1,6 @@
 ---
 layout: program
-title: "Diaspora and Community Engagement (DCE)"
-date: 2017-11-27
-published: true
+title: Diaspora and Community Engagement (DCE)
 permalink: /program/diaspora-community-engagement/
 img: professional-development.jpeg
 categories:

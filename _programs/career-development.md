@@ -1,11 +1,85 @@
 ---
 layout: program
-title: "Career Development Program"
-date: 2017-11-27
-published: true
+title: Career Development Program
 permalink: /program/career-development/
 img: professional-development.jpeg
 categories:
 - programs
 ---
 The Career Development Program provides a platform to help members in their career development journey, from finding and gaining employment through progressing towards individual career goals. YEP organizes various programs and events such as invited speakers series, panel discussions and virtual webcasts on career development topics. We will also organize Resume and Cover Letter writing workshops and mock interview sessions where you can gain valuable individualized feedback.
+
+If you are a job seeker, know of a job opening or have suggestions for the future events, we would love to hear from you!
+
+Job Seekers: Are you looking for a job or just starting out on your career? Career Development Program can help you with your job search! Through partnerships with recruiters, jobs advertised by YEP members and online job search tools, we will work to help match you with opportunities that are a good fit. Fill out this form for job seekers and we will contact you within a week.
+
+Disclaimer: We cannot guarantee employment. The aim of this program is to help expose you to more opportunities that are available.
+
+Job Advertisers: Do you have a job opportunity you want to share with YEP members? You can let us know using two ways: e-mail the Program team the link to the job description or fill out this form to let us know more about it.
+
+Feedback for the Career Development Program: We would love to hear your feedback on what programs and events would provide you more value on your career path. Please let us know by filling out our Survey, where you can also indicate if you have knowledge or skills you would like to share as well!
+
+Career Program Offerings
+
+Here you will be able to see the list of events that the Career Development Programs has planned for the next two months
+
+(Embed calendar by pasting this code on the web page: <iframe src="https://calendar.google.com/calendar/embed?src=u4mj77pucdkoud9584vsbp9isg%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>  )
+
+
+
+Additional Resources
+
+
+
+Quintessential Careers
+
+A career, job, and college site offering free career and job-hunting advice (through articles, tools, tips, samples, and tutorials), as well as serving as a directory of links to all job sites.
+
+https://www.livecareer.com/quintessential/
+
+
+
+The Bureau of Labor Statistics,
+
+The official governmental agency responsible for collecting and analyzing occupational information, is a great place to find comprehensive information on occupations and their requirements. You can search occupational information by several different criteria such as education level, wages, job growth etc... The information available on the website is produced and updated every two years.
+
+https://www.bls.gov/ooh/
+
+
+
+Professional Clothing
+
+Dressing for success doesn’t have to break your bank! There are multiple non-profit organizations in Washington metro area that provide professional clothes and other services such as interview counseling.
+
+http://www.successinstyle.org/
+
+http://www.acdnonline.org/locations/
+
+
+
+Websites that offer useful tips and guides:
+
+Resume writing:
+
+http://www.rawresume.com/
+
+http://www.resumewritingacademy.com/resume-writer-resources.php
+
+
+
+Interview preparation:
+
+https://www.thebalance.com/practice-interview-tips-and-techniques-2062805
+
+https://www.monster.com/career-advice/job-interview
+
+http://myinterviewsimulator.com/
+
+
+
+Researching employers:
+
+https://www.glassdoor.com/index.htm
+
+http://www.vault.com/
+
+https://www.themuse.com/

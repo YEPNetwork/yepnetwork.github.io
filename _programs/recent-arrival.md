@@ -1,0 +1,293 @@
+---
+layout: program
+title: Program For Recent Arrival
+permalink: /program/recent-arrival/
+img: professional-development.jpeg
+categories:
+- programs
+---
+<p dir="ltr">A newcomer is an individual that has migrated to the United States. &nbsp;</p>
+
+<ul>
+	<li dir="ltr">
+	<p dir="ltr">Individuals of Ethiopian descent who have recently arrived to the United States of America</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individuals who are just starting a new life in the United States America</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individuals who have moved to the United States America with the intent to work or reside for more than one year.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individuals who had limited or no access to the United States of America social, economic and professional lifestyle</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individuals who recently left Ethiopia and are looking to settle in the United States of America</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individuals who are new to the Washington D.C. tristate area.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Individual must have been in the United States of America less than three to five years.</p>
+	</li>
+</ul>
+
+<p dir="ltr"><strong>&nbsp;Vision</strong></p>
+
+<p dir="ltr">Your Ethiopian Professional’s Newcomer Program focuses on helping those we serve learn and thrive in their new communities.</p>
+
+<p dir="ltr"><strong>&nbsp;Mission</strong></p>
+
+<p dir="ltr">This Newcomer Program initiative attempts to offer sustainable resettlement programs and mobilize community leaders to offer these professional services that are necessary for our new residents.&nbsp;</p>
+
+<p><strong>Newcomer Program Goals</strong></p>
+
+<p dir="ltr">The Newcomer Program aims to work towards the following goals:</p>
+
+<ul>
+	<li dir="ltr">
+	<p dir="ltr">To serve as a resource and work in three vital areas of need.</p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Educational Assistance Program</p>
+		</li>
+		<li>
+		<p dir="ltr">Cultural Programs</p>
+		</li>
+		<li>
+		<p dir="ltr">Community Partnerships</p>
+		</li>
+	</ul>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">To create partnerships and working relationships with community organizations that offer services in education, cultural and legal affairs.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">To ensure that program resources integrate with community needs.</p>
+	</li>
+</ul>
+
+<p dir="ltr"><strong>Educational Program</strong></p>
+
+<ul>
+	<li dir="ltr">
+	<p dir="ltr">Goal: to serve as a resource and provide a platform for learning.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Action:</p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Provide educational resource guides</p>
+		</li>
+		<li>
+		<p dir="ltr">Partner with educational firms to provide necessary classes.</p>
+		</li>
+	</ul>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Inputs: Resource content, printing needs, ESL tutors, and performance space</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Activities:</p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Pass out resource guides (kit) at Empower Event,</p>
+		</li>
+		<li>
+		<p dir="ltr">Weekly/ monthly courses, TBD</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Course Example: - English as a Second Language</p>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Outputs: 200+ individuals served annually</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Outcomes:</p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Long Term</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Increase YEP’s program exposure and value in the community.</p>
+			</li>
+			<li>
+			<p dir="ltr">Increase educational knowledge, benefits, and accessibility in the community.</p>
+			</li>
+			<li>
+			<p dir="ltr">Encourage sense of community and social discourse.</p>
+			</li>
+		</ul>
+		</li>
+		<li>
+		<p dir="ltr">Short Term</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Newcomer individuals get information on the educational resources they need.</p>
+			</li>
+			<li>
+			<p dir="ltr">Newcomer Program impact and exposure.</p>
+			</li>
+			<li>
+			<p dir="ltr">Newcomer Program gets more referrals.</p>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><strong>Cultural Program</strong></p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Goal: to provide a platform for newcomer individuals (or group) to get access to information and perform activities that will make their acculturation process more successful.</p>
+		</li>
+		<li>
+		<p dir="ltr">Action: create cultural activities, creative group outings and panels</p>
+		</li>
+		<li>
+		<p dir="ltr">Inputs: volunteers, performance space, video editing, developing content, printing needs, and communication needs</p>
+		</li>
+		<li>
+		<p dir="ltr">Activities:</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Monthly Group Activities - Host events, like Happy hours, cultural tours, museums strolls, etc</p>
+			</li>
+			<li>
+			<p dir="ltr">Quarterly Panels – discussing cultural nuances and hot topics</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Topic Example: - “The Importance of Body Language”, “importance of Eye Contact”</p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li>
+		<p dir="ltr">Outputs: 200+ newcomer individuals served annually</p>
+		</li>
+		<li>
+		<p dir="ltr">Outcomes:</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Long Term</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Increase YEP’s program exposure and value in the community.</p>
+				</li>
+				<li>
+				<p dir="ltr">Increase knowledge in the cultural nuances that exist between the two cultures.</p>
+				</li>
+				<li>
+				<p dir="ltr">Encourage sense of community and social discourse.</p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p dir="ltr">Short Term</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Newcomer individuals understand the American cultural expectations.</p>
+				</li>
+				<li>
+				<p dir="ltr">Newcomer Program impact and exposure.</p>
+				</li>
+				<li>
+				<p dir="ltr">Newcomer Program gets more referrals</p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><strong>Community Partnerships - Legal</strong></p>
+
+	<ul>
+		<li>
+		<p dir="ltr">Goal: to provide a safe space for newcomer individuals (or group) to get legal support and guidance.</p>
+		</li>
+		<li>
+		<p dir="ltr">Action: partner with local legal firms to provide, facilitate and structure legal support.</p>
+		</li>
+		<li>
+		<p dir="ltr">Inputs: legal firms, immigration lawyers, resource content, printing needs and performance space</p>
+		</li>
+		<li>
+		<p dir="ltr">Activities:</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Pass out legal resource guides at events, and have available online.</p>
+			</li>
+			<li>
+			<p dir="ltr">Quarterly legal sessions (one on one, panel discussion, public forums) covering FYI topics.</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Topic Example: - “What are your rights as a H1B Visa holder?”</p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li>
+		<p dir="ltr">Outputs: 100 newcomer individuals served annually.</p>
+		</li>
+		<li>
+		<p dir="ltr">Outcomes:</p>
+
+		<ul>
+			<li>
+			<p dir="ltr">Long Term</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Increase YEP’s program exposure and value in the community.</p>
+				</li>
+				<li>
+				<p dir="ltr">Increase legal knowledge and accessibility in the community.</p>
+				</li>
+				<li>
+				<p dir="ltr">Encourage sense of community and social discourse.</p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p dir="ltr">Short Term</p>
+
+			<ul>
+				<li>
+				<p dir="ltr">Newcomer individuals get the legal assistance they need.</p>
+				</li>
+				<li>
+				<p dir="ltr">Newcomer Program impact and exposure.</p>
+				</li>
+				<li>
+				<p dir="ltr">Newcomer Program gets more referrals.</p>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>

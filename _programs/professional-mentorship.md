@@ -1,0 +1,11 @@
+---
+layout: program
+title: Professional Mentorship
+permalink: /program/professional-mentorship/
+img: professional-development.jpeg
+categories:
+- programs
+---
+<p>The &nbsp;<a href="http://yepnetworks.us11.list-manage2.com/track/click?u=5d936b18dafd103ed356a89c6&amp;id=8b859ff9fb&amp;e=e2a73a2fcc">Professional&nbsp;Mentorship&nbsp;Program</a>&nbsp;is now live!&nbsp;The program enables a one-on-one&nbsp;professional learning relationship between a&nbsp;mentor&nbsp;and mentee for members to expand their knowledge, leadership skills and enhance professional competencies.&nbsp;<br />
+<br />
+This year's pilot program has received high applicant interest with 30&nbsp;compatible&nbsp;mentors&nbsp;and mentees&nbsp;to participate. The pilot program will run from April to July 2017.&nbsp;If you are interested to participate in the next phase, please complete the&nbsp;<strong><a href="http://yepnetworks.us11.list-manage.com/track/click?u=5d936b18dafd103ed356a89c6&amp;id=ddcefd740d&amp;e=e2a73a2fcc">interest form</a></strong>&nbsp;available for members to be considered and matched.&nbsp;</p>
