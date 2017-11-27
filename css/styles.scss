@@ -1,0 +1,75 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+//==
+// Collapsible footer
+// See http://jsfiddle.net/paulalexandru/Z2Lu5/
+#accordion {
+  bottom: 0;
+  width: 100%;
+}
+
+.panel-default > .panel-heading{
+  background: #00B4FF;
+}
+
+.panel-heading {
+  padding: 0;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.panel-group .panel {
+  border-radius: 0;
+}
+
+.panel-title a {
+  color: #FFFFFF;
+  text-align: center;
+  width: 100%;
+  display: block;
+  padding: 10px 15px;
+  font-size: 24px;
+  font-family: Helvetica,Arial,sans-serif;
+  outline: none;
+}
+
+.panel-title a:hover, .panel-title a:focus, .panel-title a:active {
+  text-decoration: none;
+  outline: none;
+}
+
+// Cards on homepage.
+.cards {
+  margin-bottom: 2em;
+
+  .card-item {
+    box-shadow: 0px 0px 5px #bbb;
+    margin-bottom: 2em;
+    padding: 1em;
+
+    h3 {
+      margin: 0px -4px 7px -4px;
+      padding: 2px;
+      border-bottom: 1px solid #ccc;
+    }
+  }
+}
+
+.footer {
+  margin-top: 45px;
+  padding-top: 35px;
+  padding-bottom: 36px;
+  border-top: 1px solid #E5E5E5;
+
+  ul.menu {
+    li {
+      float: left;
+    }
+  }
+
+  .copy {
+    padding: 10px;
+  }
+}

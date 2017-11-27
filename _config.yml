@@ -1,0 +1,20 @@
+# Site settings.
+title : YEP
+email : henok@blencorp.com
+tagline: A Jekyll starter for YEP theme.
+description: >
+ A Jekyll starter for YEP theme.
+baseurl: ""
+url: ""
+analytics: ''
+
+# Build settings.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - CNAME
+  - README.md

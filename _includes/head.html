@@ -1,0 +1,52 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Facebook Meta tags -->
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  {% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  {% endif %}
+  {% if page.title %}
+  <meta property="og:type" content="website">
+  {% else %}
+  <meta property="og:type" content="website">
+  {% endif %}
+  {% if page.description %}
+  <meta property="og:description" content="{{ page.description }}">
+  {% else %}
+  <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.url %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.img %}
+  <meta property="og:image" content="{{ site.url }}/assets/img/blog/{{ page.img }}">
+  {% endif %}
+
+  <link rel="shortcut icon" href="/favicon.png">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <!-- jQuery -->
+  <script src="{{ "/assets/jquery/jquery.min.js" | prepend: site.baseurl }}"></script>
+</head>

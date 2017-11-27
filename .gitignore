@@ -1,0 +1,11 @@
+# Ignore generated files
+_site
+.sass-cache
+.DS_Store
+*.swp
+.bundle
+node_modules
+.buildpath
+.project
+.settings
+.vscode
