@@ -8,6 +8,10 @@ baseurl: ""
 url: ""
 analytics: ''
 
+collections:
+  programs:
+    output: true
+
 # Build settings.
 exclude:
   - Gemfile
