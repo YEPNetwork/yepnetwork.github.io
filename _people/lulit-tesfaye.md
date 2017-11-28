@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Lulit Tesfaye
-first-name: Lulit
-last-name: Tesfaye
+last_name: Tesfaye
 position: Co-founder and Vice President
 permalink: /people/lulit-tesfaye/
 category:

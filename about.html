@@ -112,7 +112,7 @@ body_class: about
         <h2 class="margin-bottom-4 margin-top-0">Founders</h2>
       </div>
 
-      {% assign persons = site.people | where: "category", "founders" | sort: "last-name" %}
+      {% assign persons = site.people | where: "category", "founders" | sort: "last_name" %}
       {% for person in persons %}
         <div class="col-sm-4 col-centered">
           <div class="panel panel-default padding-4" style="min-height: 320px; margin-bottom: 2em;">
@@ -120,7 +120,8 @@ body_class: about
               <i class="fa fa-rocket"></i>
             </div>
             <h4 class="text-center">{{ person.title }}</h4>
-            <p>{{ person.excerpt | strip_html | truncatewords:400 }}</p>
+            <h5 class="text-center">{{ person.position }}</h5>
+            <p>{{ person.excerpt | strip_html | truncatewords:100 }}</p>
           </div>
         </div>
       {% endfor %}

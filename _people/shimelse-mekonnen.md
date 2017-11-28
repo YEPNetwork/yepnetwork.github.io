@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Shimelse Mekonnen
-first-name: Shimelse
-last-name: Mekonnen
+last_name: Mekonnen
 position: Co-founder and Executive Vice President
 permalink: /people/shimelse-mekonnen/
 category:
