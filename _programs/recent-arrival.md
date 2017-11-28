@@ -1,6 +1,6 @@
 ---
 layout: program
-title: Program For Recent Arrival
+title: Recent Arrival
 permalink: /program/recent-arrival/
 img: professional-development.jpeg
 categories:

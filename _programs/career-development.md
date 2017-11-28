@@ -1,6 +1,6 @@
 ---
 layout: program
-title: Career Development Program
+title: Career Development
 permalink: /program/career-development/
 img: professional-development.jpeg
 categories:
