@@ -8,8 +8,11 @@ baseurl: ""
 url: ""
 analytics: ''
 
+# Special content types.
 collections:
   programs:
+    output: true
+  people:
     output: true
 
 # Build settings.
