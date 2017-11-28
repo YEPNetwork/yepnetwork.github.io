@@ -75,3 +75,59 @@
   color: #fff;
   background: transparent;
 }
+
+// hero media.
+.media-icon-wrapper {
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+  text-align: center;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+.panel-icon-wrapper {
+  transform: scale(1.5);
+  margin: 26px auto;
+  width: 30px;
+  height: 30px;
+  padding: 2px;
+  text-align: center;
+  box-shadow: 0 0 0 2px #eee;
+  border-radius: 50%;
+}
+
+body.about {
+  .hero {
+    position: relative;
+    background-image: url(/assets/images/team.jpg);
+    background-size: cover;
+    background-position: center -70px;
+    background-attachment: fixed;
+
+    .image-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background-color: rgba(0, 0, 0, 0.53);
+    }
+
+    .content-wrapper {
+      padding: 125px 0;
+      position: relative;
+
+      h2 {
+        color: #fff; margin-top: 0;
+      }
+      h4 {
+        color: #fff; font-weight: 400; opacity: .5;
+      }
+    }
+  }
+
+  .panel {
+    min-height: 380px;
+  }
+}
