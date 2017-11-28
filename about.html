@@ -107,25 +107,7 @@ body_class: about
 
 <div class="prose bg-gray">
   <div class="container pad-by-50">
-    <div class="row">
-      <div class="col-sm-12 text-center margin-bottom-4">
-        <h2 class="margin-bottom-4 margin-top-0">Founders</h2>
-      </div>
-
-      {% assign persons = site.people | where: "category", "founders" | sort: "last_name" %}
-      {% for person in persons %}
-        <div class="col-sm-4 col-centered">
-          <div class="panel panel-default padding-4" style="min-height: 320px; margin-bottom: 2em;">
-            <div style="transform: scale(1.5); margin: 26px auto; width: 30px; height: 30px; padding: 2px; text-align: center; box-shadow: 0 0 0 2px #eee; border-radius: 50%;">
-              <i class="fa fa-rocket"></i>
-            </div>
-            <h4 class="text-center">{{ person.title }}</h4>
-            <h5 class="text-center">{{ person.position }}</h5>
-            <p>{{ person.excerpt | strip_html | truncatewords:100 }}</p>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
+    {% include founders.html %}
   </div>
 </div>
 
