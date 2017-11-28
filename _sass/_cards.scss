@@ -1,0 +1,16 @@
+// Cards on homepage.
+.cards {
+  margin-bottom: 2em;
+
+  .card-item {
+    box-shadow: 0px 0px 5px #bbb;
+    margin-bottom: 2em;
+    padding: 1em;
+
+    h3 {
+      margin: 0px -4px 7px -4px;
+      padding: 2px;
+      border-bottom: 1px solid #ccc;
+    }
+  }
+}
