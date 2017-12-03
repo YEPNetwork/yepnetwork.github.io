@@ -12,6 +12,7 @@ analytics: ''
 collections:
   programs:
     output: true
+    permalink: /program/:title/
   people:
     output: true
 
