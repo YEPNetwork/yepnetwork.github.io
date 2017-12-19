@@ -12,6 +12,8 @@ analytics: ''
 collections:
   programs:
     output: true
+  events:
+    output: true
   people:
     output: true
 
