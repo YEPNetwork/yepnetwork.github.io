@@ -1,3 +1,53 @@
+// Change needed for fixed footer.
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: $footer-height;
+}
+
+// Content spacer.
+.content {
+  margin-top: 40px;
+}
+
+// Container of links in top-right nav should be smaller.
+#sitehead .supernav {
+  min-width: 303px;
+}
+
+// Change logo size on large screens.
+#sitehead {
+  img {
+    //width: 250px;
+    padding: 10px;
+    width: 180px;
+    height: auto;
+  }
+}
+// Logo should be smaller in mobile.
+@media (max-width: 767px) {
+  #sitehead {
+    margin-bottom: 0;
+    img {
+      width: 204px;
+      //margin-left: 80px;
+      margin-left: 15px;
+    }
+  }
+}
+
+// Since our navbar is darker, the lines in hamburger should be lighter.
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+// The hamburger background on focus should be transparent.
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: transparent;
+}
+
 // Media
 .media {
   zoom: 1;

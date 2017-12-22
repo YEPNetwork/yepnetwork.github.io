@@ -1,0 +1,35 @@
+<div id="sitehead">
+  <div class="container">
+    <div class="navbar-header">
+      <a href="/" title="logo">
+        <img src="{{ "/assets/images/logo.png" | prepend: site.baseurl" id="logo" alt="The {{ site.title }}">
+      </a>
+    </div>
+    <div class="navbar-right hidden-xs">
+      <div class="utilitynav">
+        <span class="fac-hub">
+          <a href="#" class="fac-hub">Members</a>
+        </span>
+      </div>
+      <div class="supernav">
+        <ul class="nav" role="navigation">
+          <li class="events">
+            <a href="/events">Events</a>
+          </li>
+          <li class="donate">
+            <a href="/donate" class="has-mp-click" data-event-label="Click Donate Button in Header">Donate Now</a>
+          </li>
+        </ul>
+        <ul class="socmed">
+          <li class="newsletter">
+            <a href="/subscribe" class="sprite has-mp-click" data-event-label="Email Sign Up Button in Header" alt="{{ site.title }} Newsletter image">
+              <i class="fa fa-envelope"></i>
+              <span>Get Our
+                <br>Newsletter</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

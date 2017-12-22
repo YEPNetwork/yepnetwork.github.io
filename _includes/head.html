@@ -1,10 +1,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width initial-scale=1">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <link rel="shortcut icon" href="/favicon.ico">
 
   <!-- Facebook Meta tags -->
   <meta property="og:site_name" content="{{ site.title }}">
@@ -30,12 +32,24 @@
   <meta property="og:image" content="{{ site.url }}/assets/img/blog/{{ page.img }}">
   {% endif %}
 
-  <link rel="shortcut icon" href="/favicon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+  <!-- Fonts -->
+  <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6162492/663684/css/fonts.css" />
+
   <!-- Bootstrap -->
   <link rel="stylesheet" type="text/css" href="{{ "/assets/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl }}">
+
+  <!-- Font Awesome CSS -->
+  <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Mobile Menu CSS-->
+  <link type="text/css" rel="stylesheet" href="{{ "/assets/css/jquery.mmenu.all.css" | prepend: site.baseurl }}">
+
+  <!-- Custom styles for Up To Us -->
+  <link href="{{ "/assets/css/application.css" | prepend: site.baseurl }}" rel="stylesheet">
 
   <!-- Custom styles -->
   <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
@@ -43,12 +57,17 @@
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="/assets/js/html5shiv.js"></script>
+    <script src="/assets/js/respond.min.js"></script>
   <![endif]-->
 
-  <!-- jQuery -->
-  <script src="{{ "/assets/jquery/jquery.min.js" | prepend: site.baseurl }}"></script>
+  <link rel='dns-prefetch' href='//ajax.googleapis.com' />
+  <link rel='dns-prefetch' href='//cdn.optimizely.com' />
 
-  <script src="https://use.fontawesome.com/7091360c9b.js"></script>
+  <!-- jQuery -->
+  <script src="{{ "/assets/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+
+  <script src="{{ "/assets/js/modernizr.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/bootstrap/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+  <script src='//cdn.optimizely.com/js/1995751339.js'></script>
 </head>
