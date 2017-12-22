@@ -14,7 +14,8 @@ body {
 
 // Container of links in top-right nav should be smaller.
 #sitehead .supernav {
-  min-width: 303px;
+  //min-width: 303px; // with one more link
+  min-width: 237px;
 }
 
 // Change logo size on large screens.
