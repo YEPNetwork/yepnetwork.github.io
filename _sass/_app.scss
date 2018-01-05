@@ -207,12 +207,12 @@ form span.required {
 .nav-tabs>li>a:hover,
 .nav-tabs>li>a:focus {
   color: #FFF;
-  background-color: #78BE20;
-  border: 1px solid #78BE20;
+  background-color: $site-secondary-color;
+  border: 1px solid $site-secondary-color;
 }
 
 .nav-tabs {
-  border-bottom: 2px solid #78BE20;
+  border-bottom: 2px solid $site-secondary-color;
 }
 
 .nav-tabs>li>a {
@@ -408,7 +408,7 @@ body .container .btn-success {
   font-family: sans-serif;
   font-weight: 700px;
   color: #FFF !important;
-  background-color: #78BE20 !important;
+  background-color: $site-secondary-color !important;
   border: none;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -724,7 +724,7 @@ body .btn.btn-wrap {
 /* Main Site Navigation */
 
 #primary-nav-holder {
-  background: #78BE20;
+  background: $site-secondary-color;
   margin-bottom: 0;
   border: none;
   border-radius: 0;
@@ -734,7 +734,7 @@ body .btn.btn-wrap {
 
 #mainnav ul {
   float: none;
-  background: #78BE20;
+  background: $site-secondary-color;
 }
 
 #mainnav ul li {
@@ -1315,7 +1315,7 @@ img.event-featured-img {
   margin: 0;
   position: absolute;
   bottom: 0;
-  background-color: #78BE20;
+  background-color: $site-secondary-color;
   color: #FFF;
   padding: 3px 2px 3px 2px;
   font-weight: 500;
@@ -1392,7 +1392,7 @@ img.event-featured-img {
   margin: 0;
   position: absolute;
   bottom: 0;
-  background-color: #78BE20;
+  background-color: $site-secondary-color;
   color: #FFF;
   font-weight: 500;
   padding: 6px 10px 6px 10px;
@@ -1819,7 +1819,7 @@ img.event-featured-img {
   content: '“';
   font-weight: 700;
   font-size: 150px;
-  color: #78BE20;
+  color: $site-secondary-color;
   opacity: .5;
 }
 
@@ -2194,7 +2194,7 @@ ul.recent-webcasts ul li {
 
 .map-content form a:hover,
 .map-content form a:focus {
-  color: #78BE20;
+  color: $site-secondary-color;
 }
 
 .map-content #search_form {
@@ -2307,7 +2307,7 @@ body.fullScreen {
 
 .map-tabs .nav-tabs>li>a:hover,
 .map-tabs .nav-tabs>li>a:focus {
-  background: #78BE20;
+  background: $site-secondary-color;
   border: none;
 }
 
@@ -3078,7 +3078,7 @@ a.cta_button:hover .blog-cta .inner-cta {
   padding: 0 0 23px 0;
   font-size: 12px;
   line-height: 23px;
-  background: #78BE20;
+  background: $site-secondary-color;
   color: #FFF;
 }
 
