@@ -1,40 +1,50 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top">
+{% include sitehead.html %}
+
+<nav id="navbar" class="navbar navbar-default" role="navigation">
   <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header page-scroll">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand page-scroll" href="/"><img src="{{ "/assets/images/logo.png" | prepend: site.baseurl }}" width="106" height="30" alt="Home"></a>
     </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About Us</a></li>
-        <li><a href="/programs">Programs</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li class="hidden">
-          <a href="#page-top"></a>
+        <li class="{% if page.body_class == "front" %} active {% endif %}">
+          <a href="{{ "/" | prepend: site.baseurl }}">Home</a>
+        </li>
+        <li class="dropdown {% if page.body_class == "about" %} active {% endif %}">
+          <a href="{{ "/about" | prepend: site.baseurl }}">About</a>
+        </li>
+        <li class="dropdown {% if page.title == "Programs" %} active {% endif %}">
+          <a href="{{ "/programs" | prepend: site.baseurl }}">Programs</a>
+        </li>
+        <li class="last dropdown {% if page.title == "Events" %} active {% endif %}">
+          <a href="{{ "/events" | prepend: site.baseurl }}">Events</a>
         </li>
       </ul>
     </div>
-    <!-- /.navbar-collapse -->
   </div>
-  <!-- /.container-fluid -->
 </nav>
-
-<!-- Header -->
-<header>
-  <div class="container">
-    <div class="intro-text">
-      &nbsp;
+<div id="subnav-wrapper" class="hidden-xs" role="navigation" style="display: none;">
+  <nav id="subnav" class="navbar navbar-default" role="navigation" id="subnav">
+    <div class="container">
+      <ul class="nav navbar-nav collapse" id="one">
+        <li><a href="#" id="">One sub 1</a></li>
+        <li><a href="#" id="">One sub 2</a></li>
+        <li><a href="#" id="">One sub 3</a></li>
+      </ul>
+      <ul class="nav navbar-nav collapse" id="two">
+        <li><a href="#" id="">Two sub 1</a></li>
+        <li><a href="#" id="">Two sub 2</a></li>
+        <li><a href="#" id="">Two sub 3</a></li>
+      </ul>
+       <ul class="nav navbar-nav collapse" id="three">
+        <li><a href="#" id="">Three sub 1</a></li>
+        <li><a href="#" id="">Three sub 2</a></li>
+      </ul>
     </div>
-  </div>
-</header>
+  </nav>
+</div>

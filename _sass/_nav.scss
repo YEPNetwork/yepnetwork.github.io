@@ -1,0 +1,77 @@
+#navbar {
+  background: $site-secondary-color;
+  border: none;
+  //min-height: 60px;
+  padding: 0;
+  margin-bottom: 0;
+  border-radius: 0;
+
+  // @see https://www.bootply.com/WjsCLRE3d6.
+  .collapsing {
+    display: none;
+  }
+
+  .navbar-collapse {
+    padding-left: 0; // @todo: Find a better way.
+    border-color: $site-secondary-color;
+  }
+
+  .navbar-nav {
+    background: #78BE20;
+
+    > li {
+      text-align: center;
+      border-right: 1px solid #eee;
+      margin-bottom: 0px;
+
+      &.last {
+        border: none;
+      }
+
+      > a {
+        line-height: 3.8;
+        padding: 0 37px 0 37px;
+        display: block;
+        font-size: 1.8rem;
+        line-height: 3.8;
+        color: #fff;
+
+        &:hover {
+          background: #636466;
+        }
+      }
+    }
+
+    .active {
+      a {
+        background: #636466;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+#subnav-wrapper {
+  background-color: #636466;
+  border: none;
+  margin-bottom: 60px;
+
+  .navbar {
+    ul {
+      li {
+        a {
+          color: #fff;
+
+          &:hover,
+          &:focus {
+            color: #F38B00;
+          }
+        }
+      }
+    }
+  }
+}
+
+#subnav {
+  border: 0;
+}
