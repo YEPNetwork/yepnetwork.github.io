@@ -3,258 +3,333 @@
     "title": "Protect Your Ideas: Understanding Patents, Trademarks and Copyrights",
     "price": "FREE",
     "date": "MON, DEC 11 6:30 PM",
-    "venue": "US Patent and Trademark Office, Alexandria"
+    "venue": "US Patent and Trademark Office, Alexandria",
+    "url": "https://www.eventbrite.com/e/protect-your-ideas-understanding-patents-trademarks-and-copyrights-tickets-39617946344#"
   },
   {
     "title": "Intersection of Film & Culture: Conversation with Messay Getahun",
     "price": "FREE",
     "date": "WED, OCT 11 6:30 PM",
     "venue": "Washington Economic Partners, Washington",
-    "type": "#FilmMedia #Seminar"
+    "type": "#FilmMedia #Seminar",
+    "url": "https://www.eventbrite.com/e/intersection-of-film-culture-conversation-with-messay-getahun-tickets-38488518194",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F36056782%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C0%2C434%2C217&s=a40a697a8ba1d1bd717ad807b9625b29"
   },
   {
     "title": "YEP Summer Gala",
     "price": "$49.99 - $99.99",
     "date": "SAT, JUN 10 6:30 PM",
     "venue": "Beth El Hebrew Congregation, Alexandria",
-    "type": "#CharityCauses #Gala"
+    "type": "#CharityCauses #Gala",
+    "url": "https://www.eventbrite.com/e/yep-summer-gala-tickets-27892345757",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F31932916%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C0%2C300%2C150&s=37dc2ab4e4d3b3ef4446f6e0b3eb4092"
   },
   {
-    "title": "YEP_Happy Hour",
+    "title": "YEP Happy Hour",
     "price": "FREE",
     "date": "THU, APR 27 6:00 PM",
     "venue": "Ozio DC, Washington",
-    "type": "#CharityCauses #Networking"
+    "type": "#CharityCauses #Networking",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-tickets-34011394998",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F30717714%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C40%2C1080%2C540&s=232b24cdbe974bfbc0e6dafe841322d9"
   },
   {
     "title": "The Filmmakers Panel @ NoMa, Presented by YEP (Your Ethiopian Professionals)",
     "price": "FREE",
     "date": "THU, MAR 16 6:00 PM",
     "venue": "NoMa BID Lobby - DC, Washington",
-    "type": "#FilmMedia #Seminar"
+    "type": "#FilmMedia #Seminar",
+    "url": "https://www.eventbrite.com/e/the-filmmakers-panel-noma-presented-by-yep-your-ethiopian-professionals-tickets-32633446517",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29059605%2F145222833380%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C0%2C2160%2C1080&s=662e40e24a6361589a2bdd5e63817b5b"
   },
   {
     "title": "YEP Presents: Career Opportunities in Government and Public Policy featuring Dr. Menna Demessie",
     "price": "FREE",
     "date": "THU, FEB 2 6:00 PM",
     "venue": "Washington Marriott Marquis, Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url" : "https://www.eventbrite.com/e/yep-presents-career-opportunities-in-government-and-public-policy-featuring-dr-menna-demessie-tickets-31129103988",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F27475359%2F13565185223%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C66%2C960%2C480&s=64fe8b8f6a19dc77d46c81a8fe7d97b2"
   },
   {
     "title": "YEP Career Workshop Series: Navigating Careers in HealthCare",
     "price": "FREE",
     "date": "THU, JUN 23 6:00 PM",
     "venue": "Marriott Marquis , Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url": "https://www.eventbrite.com/e/yep-career-workshop-series-navigating-careers-in-healthcare-tickets-25845296979",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21635424%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C0%2C590%2C295&s=e6b9b548672a357167dd7db56035507c"
   },
   {
     "title": "YEP Presents: \"A Conversation on International Business and Entrepreneurship\" featuring Yohannes Assefa",
     "price": "FREE",
     "date": "THU, MAR 24 6:00 PM",
     "venue": "Rennaisance Washington DC, Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url": "https://www.eventbrite.com/e/yep-presents-a-conversation-on-international-business-and-entrepreneurship-featuring-yohannes-assefa-tickets-23131011478",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F19557490%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C444%2C2624%2C1312&s=d8d8900721908b4862da00cf9395acb9"
   },
   {
     "title": "YEP Happy Hour Series: Paint, Sip and Network",
     "price": "$0 - $25",
     "date": "THU, FEB 4 6:30 PM",
     "venue": "Bossa Bistro & Lounge, Washington",
-    "type": "#Networking"
+    "type": "#Networking",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-series-paint-sip-and-network-tickets-20804793698",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F18232593%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=4%2C157%2C700%2C350&s=9b189a272d844b6493f1940d2bc2b5bc"
   },
   {
     "title": "YEP's Five Year Anniversary Celebration Gala",
     "price": "$40 - $100",
     "date": "SAT, NOV 7 6:00 PM",
     "venue": "Beth El Hebrew Congregation , Alexandria",
-    "type": "#CharityCauses #Gala"
+    "type": "#CharityCauses #Gala",
+    "url": "https://www.eventbrite.com/e/yeps-five-year-anniversary-celebration-gala-tickets-18855151265",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F16598959%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=260%2C0%2C3678%2C1839&s=f1a04710849b90331ffaa3f2f2b154c7"
   },
   {
     "title": "YEP Happy Hour Series: Network With Your Fellow Professionals",
     "price": "FREE",
     "date": "FRI, OCT 23 6:00 PM",
     "venue": "Dirty Martini, Washington",
-    "type": "#Networking"
+    "type": "#Networking",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-series-network-with-your-fellow-professionals-tickets-19106247300",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F16162479%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C40%2C1650%2C825&s=d40f0b4108a204886300fa9d2279a03a"
   },
   {
     "title": "YEP Newcomers Workshop: Planning Your Professional Career in the U.S.A",
     "price": "FREE",
     "date": "THU, SEP 24 6:00 PM",
     "venue": "Renaissance Washington, DC Downtown Hotel, Washington",
-    "type": "#Business #Networking"
+    "type": "#Business #Networking",
+    "url": "https://www.eventbrite.com/e/yep-newcomers-workshop-planning-your-professional-career-in-the-usa-tickets-18577324277",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F15440528%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=125%2C0%2C630%2C315&s=86e0f68992be9038a97019b6ef518b48"
   },
   {
     "title": "YEP Career Workshop Series: Career Transitions, Where to Start & What to Consider",
     "price": "FREE",
     "date": "THU, AUG 27 6:00 PM",
     "venue": "Renaissance Hotel Washington, Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url": "https://www.eventbrite.com/e/yep-career-workshop-series-career-transitions-where-to-start-what-to-consider-tickets-18225786819",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F14936491%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=bf8da089de8ecd8f2a73641914fd283b"
   },
   {
     "title": "Protect Your Ideas: Understanding Patents, Trademarks and Copyrights",
     "price": "FREE",
     "date": "FRI, AUG 14 6:00 PM",
     "venue": "US Patent and Trademark Office (Madison Auditorium), Alexandria",
-    "type": "#Networking"
+    "type": "#Networking",
+    "url": "https://www.eventbrite.com/e/protect-your-ideas-understanding-patents-trademarks-and-copyrights-tickets-17703389314",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F14771015%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C0%2C682%2C341&s=9c6a1e2bbb263c0095bdeffb69829e1e"
   },
   {
     "title": "YEP Presents: “Living Beyond A Passion: Multidisciplinary Careers and the Journey to Success” Featuring Dr. Mehret Mandefro",
     "price": "FREE",
     "date": "THU, JUL 30 6:00 PM",
     "venue": "Marriott Marquis Washington, Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url": "https://www.eventbrite.com/e/yep-presents-living-beyond-a-passion-multidisciplinary-careers-and-the-journey-to-success-featuring-tickets-17711935877",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F14249662%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=e2327c7aa411641ca2ac972f557739de"
   },
   {
     "title": "Young Ethiopian Professionals at ESFNA",
     "price": "FROM $0",
     "date": "SUN, JUN 28 11:00 AM",
     "venue": "Capital One Field at Byrd Stadium, College Park",
-    "type": "#SportsFitness #Festival"
+    "type": "#SportsFitness #Festival",
+    "url": "https://www.eventbrite.com/e/young-ethiopian-professionals-at-esfna-tickets-17347015390",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F14024939%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=280%2C0%2C1206%2C603&s=32cdc576fc1471d2f43efdf3ea43d621"
   },
   {
     "title": "YEP Community Problem Solving Series: \"Connecting the Community\", Linking Careers and People through an information hub.",
     "price": "FREE",
     "date": "WED, JUN 24 6:00 PM",
     "venue": "Renaissance Hotel, Washington",
-    "type": "#CharityCauses #Seminar"
+    "type": "#CharityCauses #Seminar",
+    "url": "https://www.eventbrite.com/e/yep-community-problem-solving-series-connecting-the-community-linking-careers-and-people-through-an-tickets-17414830226",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F13895445%2F26485335589%2F2%2Foriginal.JPG?h=230&w=460&s=8176e8600585aeed6e21f50f9388601f"
   },
   {
     "title": "Successful Transitions: Career and Education Workshop for Newcomers",
     "price": "FREE",
     "date": "FRI, MAY 22 6:00 PM",
     "venue": "Silver Spring Civic Center, Silver Spring",
-    "type": "#Business #Seminar"
+    "type": "#Business #Seminar",
+    "url": "https://www.eventbrite.com/e/successful-transitions-career-and-education-workshop-for-newcomers-tickets-16980710763",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F13471983%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&rect=0%2C182%2C702%2C351&s=51d2bde5a230aace11a0cccfd0b448e4"
   },
   {
     "title": "YEP Presents Thomas Debass, Deputy Special Representative for Global Partnerships at US Department of State",
     "price": "FREE",
     "date": "THU, APR 30 6:00 PM",
     "venue": "The Fairfax at Embassy Row, Washington",
-    "type": "#Business #Conference"
+    "type": "#Business #Conference",
+    "url": "https://www.eventbrite.com/e/yep-presents-thomas-debass-deputy-special-representative-for-global-partnerships-at-us-department-tickets-16538047746",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F12916096%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=e5878eb6fd1497801dfd52bcc9876055"
   },
   {
     "title": "YEP Students Workshop: Get on Track for Your Future",
     "price": "FREE",
     "date": "SAT, MAR 28 1:30 PM",
     "venue": "Silver Spring Civic Center, Silver Spring",
-    "type": "#Class"
+    "type": "#Class",
+    "url": "https://www.eventbrite.com/e/yep-students-workshop-get-on-track-for-your-future-tickets-16238284145",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F12708319%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&s=73c5952a52253135243183feea78265c"
   },
   {
     "title": "YEP Career Workshop: Master the Key Skills to Land Your Ideal Job",
     "price": "FREE",
     "date": "SAT, FEB 28 9:30 AM",
     "venue": "Dogwood Conference Room - Holiday Inn Rosslyn at Key Bridge, Arlington",
-    "type": "#Business #Seminar"
+    "type": "#Business #Seminar",
+    "url": "https://www.eventbrite.com/e/yep-career-workshop-master-the-key-skills-to-land-your-ideal-job-tickets-15790108640",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F12411052%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=5f43476e953464dae1564d6043467499"
   },
   {
     "title": "YEP Happy Hour Series: Paint and Sip",
     "price": "$0 - $40",
     "date": "FRI, JAN 30 6:00 PM",
     "venue": "Bossa Bistro & Lounge, Washington",
-    "type": "#Networking"
+    "type": "#Networking",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-series-paint-and-sip-tickets-15430836046",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F12190573%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&s=da233e9a3bd7d42c7b888f95694d63d2"
   },
   {
     "title": "YEP Speaker Series Featuring: Chef Marcus Samuelsson",
     "price": "$0 - $37",
     "date": "FRI, NOV 14 9:00 PM",
     "venue": "Washington Post Conference Center , Washington",
-    "type": "#FoodDrink #Seminar"
+    "type": "#FoodDrink #Seminar",
+    "url": "https://www.eventbrite.com/e/yep-speaker-series-featuring-chef-marcus-samuelsson-tickets-13938934729",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "YEP's 4th Anniversary Celebration & Fundraising Gala",
     "price": "$40 - $50",
     "date": "FRI, NOV 14 8:00 PM",
     "venue": "Washington Post Conference Center , Washington",
-    "type": "#CharityCauses #Gala"
+    "type": "#CharityCauses #Gala",
+    "url": "https://www.eventbrite.com/e/yeps-4th-anniversary-celebration-fundraising-gala-tickets-13718292783",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8696449%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&s=c67b8e0c7c982861d28c8a1d0d34c908"
   },
   {
     "title": "YEP Happy Hour Series: Career Themed Costume Party",
     "price": "FREE",
     "date": "FRI, OCT 31 6:30 PM",
     "venue": "Dirty Martini, Washington",
-    "type": "#Networking"
+    "type": "#Networking",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-series-career-themed-costume-party-tickets-13905891897",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8775121%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&s=e56a24933b4aa374a5b2a9f1014a5290"
   },
   {
     "title": "\"The Risk of Not Taking a Risk: Navigating Global Opportunities\" featuring Addis Alemayehou",
     "price": "FREE",
     "date": "THU, AUG 21 6:00 PM",
     "venue": "Maraki Ethiopian Restaurant, Washington",
-    "type": "#Business #Networking"
+    "type": "#Business #Networking",
+    "url": "https://www.eventbrite.com/e/the-risk-of-not-taking-a-risk-navigating-global-opportunities-featuring-addis-alemayehou-tickets-12630703775",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F7400761%2F26485335589%2F1%2Foriginal.jpg?h=230&w=460&s=76c3c96cffc11aa9a4b51a9f17b6edaf"
   },
   {
     "title": "YEP Workshop Series: Chronicles of Entrepreneurship: Opportunities and Start-Up Challenges",
     "price": "FREE",
     "date": "TUE, MAY 27 6:30 PM",
     "venue": "WeWork Wonder Bread Factory , Washington",
-    "type": "#Conference"
+    "type": "#Conference",
+    "url": "https://www.eventbrite.com/e/yep-workshop-series-chronicles-of-entrepreneurship-opportunities-and-start-up-challenges-tickets-11549225043",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F6114621%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=03b336f16ae2b0988196c456b6c1a829"
   },
   {
     "title": "YEP Happy Hour Series - Stay Informed and Keep Up-To-Date in Your Industry",
     "price": "FREE",
     "date": "THU, APR 17 6:00 PM",
-    "type": "Dirty Martini Lounge, Washington"
+    "type": "Dirty Martini Lounge, Washington",
+    "url": "https://www.eventbrite.com/e/yep-happy-hour-series-stay-informed-and-keep-up-to-date-in-your-industry-tickets-9696605809",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F5703505%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=fcf1429fce6efc7a493e856958cacdf1"
   },
   {
     "title": "Creating Wealth While Doing Good” Featuring Tebabu Assefa",
     "price": "FREE",
     "date": "FRI, DEC 20 6:30 PM",
     "venue": "Silver Spring Civic Building (Spring Room), Silver Spring",
-    "type": "#Conference"
+    "type": "#Conference",
+    "url": "https://www.eventbrite.com/e/creating-wealth-while-doing-good-featuring-tebabu-assefa-tickets-9696206615",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F3852943%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=65a76818eff6917a2ceeece8000cfe2c"
   },
   {
     "title": "\"Journey from Corporate Job to Entrepreneurship\" featuring Daniel Gad",
     "price": "FREE",
     "date": "THU, AUG 8 6:00 PM",
     "venue": "Unification Church Of Washington DC, Washington",
-    "type": "#Conference"
+    "type": "#Conference",
+    "url": "https://www.eventbrite.com/e/journey-from-corporate-job-to-entrepreneurship-featuring-daniel-gad-tickets-7708824301",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F2127875%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=bf61f1405645b91b8276cc761e3f8661"
   },
   {
     "title": "Welcoming Ethiopian Professionals in the US to the Soccer Tournament",
     "price": "FREE",
     "date": "FRI, JUL 5 6:00 PM",
-    "venue": "Ozio's Roof Top, Washington"
+    "venue": "Ozio's Roof Top, Washington",
+    "url": "https://www.eventbrite.com/e/welcoming-ethiopian-professionals-in-the-us-to-the-soccer-tournament-tickets-7076621365",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "YEP Financial Intelligence Workshop: Manage your Money Smartly",
     "price": "FREE",
     "date": "THU, JUN 27 6:00 PM",
-    "venue": "Fraser Mansion, Washington"
+    "venue": "Fraser Mansion, Washington",
+    "url": "https://www.eventbrite.com/e/yep-financial-intelligence-workshop-manage-your-money-smartly-tickets-7053799103",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "Swing into Summer with YEP",
     "price": "$31.17",
     "date": "SAT, MAY 25 1:00 PM",
-    "venue": "Terrapin Adventures, Savage"
+    "venue": "Terrapin Adventures, Savage",
+    "url": "https://www.eventbrite.com/e/swing-into-summer-with-yep-tickets-6567171587",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "YEP Presents Dr Lekidelu Taddesse, MD",
     "price": "FREE",
     "date": "SAT, APR 20 3:00 PM",
-    "venue": "Sankofa Video & Books Cafe, Washington"
+    "venue": "Sankofa Video & Books Cafe, Washington",
+    "url": "https://www.eventbrite.com/e/yep-presents-dr-lekidelu-taddesse-md-tickets-6257447193",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "YEP Presents Bofta Yimam, 2013 Emmy Award Winning Journalist",
     "price": "FREE",
     "date": "FRI, MAR 22 6:00 PM",
     "venue": "Carnegie Endowment for International Peace (Choate Room), Washington",
-    "type": "#Conference"
+    "type": "#Conference",
+    "url": "https://www.eventbrite.com/e/yep-presents-bofta-yimam-2013-emmy-award-winning-journalist-tickets-5834363739",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "YEP Adventure Continues....On snow!",
     "price": "$120",
     "date": "SAT, FEB 23 7:00 AM",
-    "venue": "Winter Green Ski Resort, Rockfish"
+    "venue": "Winter Green Ski Resort, Rockfish",
+    "url": "https://www.eventbrite.com/e/yep-adventure-continueson-snow-tickets-5404986460",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "Young Ethiopian Professionals at the Ethiopian Expo",
     "price": "FREE",
     "date": "SAT, SEP 15 3:00 PM",
     "venue": "The Capitol Hilton, Washington",
-    "type": "#Expo"
+    "type": "#Expo",
+    "url": "https://www.eventbrite.com/e/young-ethiopian-professionals-at-the-ethiopian-expo-tickets-4248659856",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   },
   {
     "title": "Your Invitation to an Exciting Evening with YEP",
     "price": "FREE",
     "date": "WED, FEB 1 6:30 PM",
-    "venue": "1942 9th St NW, Washington"
+    "venue": "1942 9th St NW, Washington",
+    "url": "https://www.eventbrite.com/e/your-invitation-to-an-exciting-evening-with-yep-tickets-2849850981",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F8797183%2F26485335589%2F1%2Foriginal.png?h=230&w=460&s=301bb9c9267acc284c371c4b210b748f"
   }
 ]
