@@ -1303,61 +1303,54 @@ img.event-featured-img {
 #programs-callout {
   padding-top: 50px;
   padding-bottom: 50px;
-}
-
-#programs-callout figure {
-  position: relative;
-}
-
-#programs-callout figure h4 {
-  font-size: 12px;
-  font-size: 1.2rem;
-  margin: 0;
-  position: absolute;
-  bottom: 0;
-  background-color: $site-secondary-color;
-  color: #FFF;
-  padding: 3px 2px 3px 2px;
-  font-weight: 500;
-  padding: 6px 10px 6px 10px;
-  letter-spacing: 0.03em;
-}
-
-#programs-callout .card {
-  background-color: #FFF;
-  min-height: 450px;
-  -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .28);
-  -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .28);
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .28);
-}
-
-#programs-callout .card h3 {
-  text-align: center;
-  color: #636466;
-  font-size: 20px;
-  font-size: 2rem;
-  font-weight: 500;
-  margin: 32px 64px 24px 64px;
-}
-
-#programs-callout .card p {
-  font-size: 12px;
-  font-size: 1.2rem;
-  font-weight: 400;
-  line-height: 1.4;
-  text-align: center;
-  padding: 0 28px 0 28px;
-}
-
-#programs-callout .card a {
-  margin: 30px;
-}
-
-#programs-callout p.intro {
-  text-align: center;
-  margin-bottom: 20px;
-  font-size: 22px;
-  font-size: 2.2rem;
+  figure {
+    position: relative;
+    h4 {
+      font-size: 12px;
+      font-size: 1.2rem;
+      margin: 0;
+      position: absolute;
+      bottom: 0;
+      background-color: $site-secondary-color;
+      color: #FFF;
+      padding: 3px 2px 3px 2px;
+      font-weight: 500;
+      padding: 6px 10px 6px 10px;
+      letter-spacing: 0.03em;
+    }
+  }
+  .card {
+    background-color: #FFF;
+    min-height: 450px;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
+    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
+    h3 {
+      text-align: center;
+      color: #636466;
+      font-size: 20px;
+      font-size: 2rem;
+      font-weight: 500;
+      margin: 32px 64px 24px 64px;
+    }
+    p {
+      font-size: 12px;
+      font-size: 1.2rem;
+      font-weight: 400;
+      line-height: 1.4;
+      text-align: center;
+      padding: 0 28px 0 28px;
+    }
+    a {
+      margin: 30px;
+    }
+  }
+  p.intro {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-size: 2.2rem;
+  }
 }
 
 #featured {
