@@ -2,12 +2,8 @@
 .card-grid {
   padding-top: 50px;
   padding-bottom: 50px;
-
   figure {
     position: relative;
-    max-height: 200px;
-    min-height: 200px;
-    overflow: hidden;
     h4 {
       font-size: 12px;
       font-size: 1.2rem;
@@ -22,14 +18,12 @@
       letter-spacing: 0.03em;
     }
   }
-
   .card {
     background-color: #FFF;
     min-height: 450px;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
     -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.28);
-
     h3 {
       text-align: center;
       color: #636466;
@@ -37,13 +31,7 @@
       font-size: 2rem;
       font-weight: 500;
       margin: 32px 64px 24px 64px;
-      min-height: 200px;
     }
-
-    .desc {
-      min-height: 100px;
-    }
-
     p {
       font-size: 12px;
       font-size: 1.2rem;
@@ -52,12 +40,10 @@
       text-align: center;
       padding: 0 28px 0 28px;
     }
-
     a {
       margin: 30px;
     }
   }
-
   p.intro {
     text-align: center;
     margin-bottom: 20px;
