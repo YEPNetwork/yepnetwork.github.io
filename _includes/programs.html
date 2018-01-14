@@ -3,14 +3,22 @@
     <h2 class="margin-bottom-4 margin-top-0">Our Programs</h2>
   </div>
   {% for program in site.programs limit:include.limit %}
-    <div class="col-sm-4 col-centered">
-      <div class="panel panel-default padding-4 text-center program-panel">
-        <div class="panel-icon">
-          <i class="fa fa-book"></i>
+    <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
+      <div class="card">
+        <figure>
+          <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+        </figure>
+        <div class="copy-holder">
+          <h3>{{ program.title }}</h3>
+          <div class="desc">
+            <p>{{ program.excerpt | strip_html | truncatewords:28 }}</p>
+          </div>
+          <p>
+          <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
+          </p>
         </div>
-        <h4><a href="{{ program.url | prepend: site.baseurl }}">{{ program.title }}</a></h4>
-        <p>{{ program.excerpt | strip_html | truncatewords:35 }}</p>
       </div>
     </div>
   {% endfor %}
 </div>
+

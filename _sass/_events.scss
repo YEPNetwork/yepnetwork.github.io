@@ -1,0 +1,20 @@
+// Event landing card style.
+body.events {
+  .card-grid {
+    figure {
+      max-height: 200px;
+      min-height: 200px;
+      overflow: hidden;
+    }
+
+    .card {
+      h3 {
+        min-height: 200px;
+      }
+
+      .desc {
+        min-height: 100px;
+      }
+    }
+  }
+}
