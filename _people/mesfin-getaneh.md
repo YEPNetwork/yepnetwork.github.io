@@ -3,6 +3,7 @@ layout: default
 title: Mesfin Getaneh
 last_name: Getaneh
 position: Co-founder and President
+order: 1
 permalink: /people/mesfin-getaneh/
 categories:
 - founders

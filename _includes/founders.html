@@ -3,7 +3,7 @@
     <h2 class="margin-bottom-4 margin-top-0">Founders</h2>
   </div>
 
-  {% assign persons = site.people | where: "categories", "founders" %}
+  {% assign persons = site.people | where: "categories", "founders" | sort: 'order' %}
   {% for person in persons %}
     <div class="col-sm-4 col-centered">
       <div class="panel panel-default padding-4" style="min-height: 320px; margin-bottom: 2em;">
