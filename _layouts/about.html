@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div id="subnav-holder" class="hidden-xs" role="navigation">
+  <div class="container">
+    <div class="wrap">
+      <div id="subnav" role="navigation">
+        <ul id="menu-primary-menu-v2-1" class="nav navbar-nav">
+          {% for link in site.data.about-nav %}
+          <li class="{{ link.class }}"><a title="{{ link.title }}" href="{{ link.path }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {{ content }}
+</div>
