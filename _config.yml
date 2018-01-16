@@ -22,6 +22,9 @@ collections:
 
 # About section sub-nav.
 about:
+  - title: Overview
+    class: overview
+    path: /about
   - title: Mission & Vision
     class: mission
     path: /about/mission
