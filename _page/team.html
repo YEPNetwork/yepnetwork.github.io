@@ -15,8 +15,9 @@ body_class: about
     <div class="row">
       {% assign persons = site.data.team %}
       {% for person in persons %}
-      <div class="col-sm-12">
+      <div class="col-sm-4">
         <div class="card-item panel">
+          <img src="{{ site.url }}/assets/images/team/vacant.jpg">
           <h4>{{ person.name }}</h4>
           <h6>{{ person.position }}</h6>
         </div>
