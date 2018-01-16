@@ -20,6 +20,18 @@ collections:
   page:
     output: true
 
+# About section sub-nav.
+about:
+  - title: Mission & Vision
+    class: mission
+    path: /about/mission
+  - title: Origin Story
+    class: origin
+    path: /about/origin
+  - title: Team
+    class: team
+    path: /about/team
+
 # Build settings.
 exclude:
   - Gemfile
