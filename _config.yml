@@ -17,6 +17,8 @@ collections:
     permalink: /program/:title/
   people:
     output: true
+  page:
+    output: true
 
 # Build settings.
 exclude:
