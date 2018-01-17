@@ -28,6 +28,9 @@ about:
   - title: Origin Story
     class: origin
     path: /about/origin
+  - title: Accomplishments
+    class: accomplishments
+    path: /about/accomplishments
   - title: Team
     class: team
     path: /about/team
