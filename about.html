@@ -5,58 +5,88 @@ header: About Us
 group: navigation
 permalink: /about/
 body_class: about
+sections:
+  - title: Origin Story
+    desc: In 2010, Mesfin Getaneh, Shimeles Mekonnen, and Lulit Tesfaye began working to establish YEP.
+    image: programs_callout_1.jpg
+    path: /about/origin
+  - title: Accomplishments
+    desc: For close to a decade, YEP has hosted numerous networking events, career development workshops and more.
+    image: 2015-04-30-thomas-debass.jpg
+    path: /about/accomplishments
+  - title: Team
+    desc: Meet the members of the YEP team and learn more about their journey to join this mission-driven organization and the role they play.
+    image: programs_callout_3.jpg
+    path: /about/team
 ---
-<div id="hero" style="background-image: url(/assets/images/team.jpg); /*background-position: center 0px*/;">
-  <div class="hero-overlay"></div>
-  <div class="hero-content-wrapper">
-    <div class="container text-center">
-      <h2>About YEP</h2>
-    </div>
-  </div>
-</div>
+{% include about-nav.html %}
 
 <div class="prose bg-white">
   <div class="container pad-by-50">
     <div class="row">
       <div class="col-sm-12">
-        <h2 class="margin-top-0 margin-bottom-2">About Us</h2>
+        <h1 class="margin-top-0 margin-bottom-2">About Us</h1>
       </div>
-      <div class="col-sm-7">
-        <p>
+      <div class="container">
+        <p style="font-size: 2rem; font-weight: 400; margin-bottom: 1.5em;">
           Your Ethiopian Professionals Network (YEP) is a community of diverse professionals who strive for growth, excellence and
           success to have a positive impact in the world.
         </p>
-        <p>
-          YEP was created in 2009 to fill the need for a broader platform for the Ethiopian diaspora across all professions to connect,
-          share experiences and valuable resources and pursue community development initiatives.
-        </p>
       </div>
-      <div class="col-sm-1"></div>
-      <div class="col-sm-4">
-        <div class="media">
-          <div class="media-left padding-right-2">
-            <div class="media-icon-wrapper">
-              <i class="fa fa-leaf"></i>
-            </div>
-          </div>
-          <div class="media-body">
-            <div class="bold">Our Mission</div>
-            <p class="text-muted">to inspire, educate and empower the Ethiopian professionals community to make a positive impact in the world</p>
-          </div>
+    </div>
+  </div>
+
+  <section class="page-head">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <figure class="flex-video widescreen">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/r6eMugcQuH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </figure>
         </div>
-        <div class="media">
-          <div class="media-left padding-right-2">
-            <div class="media-icon-wrapper">
-              <i class="fa fa-leaf"></i>
-            </div>
-          </div>
-          <div class="media-body">
-            <div class="bold">Our Vision</div>
-            <p class="text-muted">to conceive of a strong community that shares ideas, skills, and resources to enrich lives</p>
-          </div>
+        <div class="col-sm-12 col-md-6">
+          <h2 style="margin-top: 0">Our Mission</h2>
+          <p style="margin-bottom: 1em">
+            Founded in 2010, YEP is a non-partisan and non-religious organization that
+            began by featuring inspirational speakers, hosting educational sessions and
+            providing networking opportunities to support our mission.
+          </p>
+          <p style="margin-bottom: 1em">
+          YEP was founded by three individuals who recognized the lack of
+          effective networking platforms for young diverse Ethiopian
+          professionals in the Washington Metropolitan area.
+          </p>
         </div>
       </div>
     </div>
+  </section>
+
+</div>
+
+<div class="prose bg-white">
+  <div class="container pad-by-50">
+    <section id="programs-callout">
+      <div class="container">
+        <div class="row">
+          {% for item in page.sections %}
+          <div class="col-xs-12 col-md-4">
+            <div class="card">
+              <figure>
+                <img src="/assets/images/{{ item.image }}">
+              </figure>
+              <div class="copy-holder">
+                <h3>{{ item.title }}</h3>
+                <p>{{ item.desc }}
+                <br>
+                <a href="{{ item.path }}" class="btn btn-default">{{ item.title }}</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
   </div>
 </div>
 
@@ -100,23 +130,3 @@ body_class: about
     </div>
   </div>
 </div>
-
-<div class="prose bg-gray">
-  <div class="container pad-by-50">
-    {% include founders.html %}
-  </div>
-</div>
-
-<div class="prose bg-white">
-  <div class="container pad-by-50">
-    <div class="row">
-      <div class="col-sm-12">
-        <h2 class="margin-top-0 margin-bottom-2">Our History</h2>
-      </div>
-      <div class="col-sm-12">
-        {% include history.html %}
-      </div>
-    </div>
-  </div>
-</div>
-
