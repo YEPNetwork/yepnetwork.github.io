@@ -15,10 +15,20 @@ body.diaspora {
   }
 }
 
-.diaspora-profile-sidebar {
-  > .profile-image {
-    max-width: 200px;
-    min-width: 200px;
-    overflow: hidden;
+.diaspora-detail {
+  h2 {
+    margin: 2em 0;
+  }
+
+  h3 {
+    font-weight: bold;
+  }
+
+  .diaspora-profile-sidebar {
+    > .profile-image {
+      max-width: 200px;
+      min-width: 200px;
+      overflow: hidden;
+    }
   }
 }
