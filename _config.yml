@@ -19,6 +19,9 @@ collections:
     output: true
   page:
     output: true
+  diaspora:
+    output: true
+    permalink: /diaspora-corner/:title/
 
 # About section sub-nav.
 about:
