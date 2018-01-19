@@ -1,6 +1,7 @@
 ---
 layout: diaspora
 title: Dr. Menna Demessie
+image: menna-demessie.jpg
 ---
 ## Dr. Menna Demessie
 
