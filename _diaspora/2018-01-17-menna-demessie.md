@@ -1,6 +1,7 @@
 ---
 layout: diaspora
 title: Dr. Menna Demessie
+position: Vice President of Policy and Research for the Congressional Black Caucus Foundation, Inc. (CBCF)
 image: menna-demessie.jpg
 ---
 ## Dr. Menna Demessie
