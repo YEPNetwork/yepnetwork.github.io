@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-sm-12 text-center margin-bottom-4">
+    <h2 class="margin-bottom-4 margin-top-0">Featured Stories</h2>
+  </div>
+  {% for item in site.diaspora %}
+    <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
+      <div class="card">
+        <figure>
+          <img src="{{ site.url }}/assets/images/diaspora/{{ item.image }}">
+        </figure>
+        <div class="copy-holder">
+          <h3>{{ item.title }}</h3>
+          <div class="desc">
+            <p></p>
+          </div>
+          <p>
+            <a href="{{ item.url }}" class="btn btn-donate">Learn More</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
