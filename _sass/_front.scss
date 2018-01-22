@@ -18,6 +18,9 @@ body.front {
       > .copy {
         position: absolute;
         top: 65%;
+        @media only screen and (max-width : 768px) {
+          top: 45%;
+        }
         height: 5em;
         margin-top: -5em;
         width: 100%;
