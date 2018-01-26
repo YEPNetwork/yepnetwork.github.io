@@ -1,7 +1,7 @@
 ---
 layout: diaspora
 title: Mignotae Kebede
-position: Film Producer, Development Manager at Life Pieces To Masterpieces(LPTM)
+position: Film Producer and Development Manager at Life Pieces To Masterpieces(LPTM)
 image: mignotae-kebede.png
 body_class: diaspora-detail
 ---
