@@ -15,7 +15,7 @@ Mignotae found herself experiencing the binary composition of Washington, D.C. a
 
 ### 1. Being apart of the Ethiopian diaspora to me means?
 
-I find it to be a true blessing to be a part of the Ethiopian and Eritrean diaspora. We have a strong sense of community, which has provided me with so much support. I would not be where I am today without my community back in LA or the community that I have here in the DMV as well. 
+I find it to be a true blessing to be a part of the Ethiopian and Eritrean diaspora. We have a strong sense of community, which has provided me with so much support. I would not be where I am today without my community back in LA or the community that I have here in the DMV as well. I owe much of my development as an individual and as a part of the larger diaspora to my parents. They taught me and my brothers to respect and cherish our culture, all while understanding the importance of individualism, allowing us to truly find our voice and how to use it for the greater good of humanity.
 
 ### 2. What advice would you give a younger you?
 
