@@ -17,7 +17,7 @@ collections:
     permalink: /program/:title/
   people:
     output: true
-  page:
+  pages:
     output: true
   diaspora:
     output: true
