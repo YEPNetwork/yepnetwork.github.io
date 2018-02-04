@@ -10,6 +10,10 @@ body.diaspora {
         overflow: hidden;
       }
 
+      .col-xs-3 {
+        padding-left: 0; // Remove whitespace on left.
+      }
+
       .blurb {
         margin-top: 1.5em;
       }
