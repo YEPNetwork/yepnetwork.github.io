@@ -1,15 +1,21 @@
 // Event landing card style.
 body.diaspora {
   .card-grid {
-    figure {
-      max-height: 300px;
-      min-height: 200px;
-      overflow: hidden;
-    }
+    .story {
+      margin-bottom: 2em;
 
-    .card {
+      figure {
+        max-height: 300px;
+        min-height: 200px;
+        overflow: hidden;
+      }
 
-      .desc {
+      .blurb {
+        margin-top: 1.5em;
+      }
+
+      .cta {
+        margin-top: 1.5em;
       }
     }
   }
