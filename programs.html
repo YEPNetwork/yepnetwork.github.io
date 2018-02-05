@@ -6,19 +6,38 @@ group: navigation
 permalink: /programs/
 body_class: programs
 ---
-<div id="hero" style="background-image: url(/assets/images/programs/professional-mentorship.jpg); /*background-position: center 0px*/;">
-  <div class="hero-overlay"></div>
-  <div class="hero-content-wrapper">
-    <div class="container text-center">
-      <h2>YEP Programs</h2>
+<section class="hero" style="background-image: url({{ site.baseurl }}/assets/images/hero/speaker-series-thomas-debass.jpg)">
+  <div class="inner">
+    <div class="copy">
+      <h1>YEP Programs</h1>
     </div>
   </div>
-</div>
+</section>
 
 <div class="bg-gray card-grid">
-  <div class="container pad-by-100">
+  <div class="container">
     <div class="row">
-      {% include programs.html %}
+      <div class="col-sm-12 text-center margin-bottom-4">
+        <h2 class="margin-bottom-4 margin-top-0">Our Programs</h2>
+      </div>
+      {% for program in site.programs limit:include.limit %}
+      <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
+        <div class="card">
+          <figure>
+            <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+          </figure>
+          <div class="copy-holder">
+            <h3>{{ program.title }}</h3>
+            <div class="desc">
+              <p>{{ program.content | strip_html | truncatewords:28 }}</p>
+            </div>
+            <p>
+            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </div>
