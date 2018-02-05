@@ -25,7 +25,7 @@ body_class: diaspora
     <h2 class="text-center margin-bottom-4 margin-top-0">Featured Stories</h2>
     {% for item in site.diaspora %}
       <div class="row story bg-white">
-        <div class="col-xs-3">
+        <div class="col-sm-3">
           <figure>
             <a href="{{ item.url }}">
               <img src="{{ site.url }}/assets/images/diaspora/{{ item.image }}">
@@ -33,7 +33,7 @@ body_class: diaspora
           </figure>
           <div class="clear"></div>
         </div>
-        <div class="col-xs-9 padding-2">
+        <div class="col-sm-9 padding-2">
           <div class="headline">
             <h3 class="margin-top-0">{{ item.title }}</h3>
             <h4>{{ item.position }}</h3>
