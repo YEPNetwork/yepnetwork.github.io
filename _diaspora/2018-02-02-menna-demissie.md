@@ -1,8 +1,8 @@
 ---
 layout: diaspora
-title: Mignotae Kebede
-position: Film Producer and Development Manager at Life Pieces To Masterpieces(LPTM)
-image: mignotae-kebede.png
+title: Dr. Menna Demessie
+position: Vice President of Policy and Research for the Congressional Black Caucus Foundation, Inc. (CBCF)
+image: menna-demessie.jpg
 body_class: diaspora-detail
 ---
 A native Californian and graduate of The George Washington University (GWU), Mignotae Kebede is dedicated to exploring the intersections between creative expression and social change.
@@ -12,7 +12,7 @@ After graduating with a Bachelors of Arts in International Affairs and Anthropol
 Mignotae found herself experiencing the binary composition of Washington, D.C. as a transplant residing in a renovated unit in Columbia Heights, yet working in the districts most underserved communities just miles away. After months of experiencing the cities’ stark dichotomy, she began to unpack the implications of being a black ‘gentrifier’. Hit with an initial sentiment of guilt, she researched Chocolate City’s complex history attempting to understand it’s polarized social, political and economic climate. In pursuit to answer the underlying question, “what happened to Chocolate City?”, Mignotae is conducting ethnographic research on the evolution of the district and its relations with native Black Washingtonians through an intergenerational lens. It is at the very intersection of creative expression and social change that Mignotae will bring to life her findings and explorative journey using film and varying mediums of visual and fine arts.
 
 
-## Mignotae Kebede in her own words
+## Dr. Menna Demessie in her own words
 
 ### 1. Being a part of the Ethiopian diaspora to me means?
 
