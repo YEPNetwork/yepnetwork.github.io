@@ -1,8 +1,8 @@
 ---
 layout: diaspora
-title: Mignotae Kebede
+title: Dr. Menna Demessie
 position: Film Producer and Development Manager at Life Pieces To Masterpieces(LPTM)
-image: mignotae-kebede.png
+image: menna-demessie.jpg
 body_class: diaspora-detail
 ---
 A native Californian and graduate of The George Washington University (GWU), Mignotae Kebede is dedicated to exploring the intersections between creative expression and social change.
