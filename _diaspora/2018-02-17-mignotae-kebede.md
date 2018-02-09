@@ -1,8 +1,8 @@
 ---
 layout: diaspora
-title: Dr. Menna Demessie
-position: Vice President of Policy and Research for the Congressional Black Caucus Foundation, Inc. (CBCF)
-image: menna-demessie.jpg
+title: Mignotae Kebede
+position: Film Producer and Development Manager at Life Pieces To Masterpieces(LPTM)
+image: mignotae-kebede.png
 body_class: diaspora-detail
 ---
 A native Californian and graduate of The George Washington University (GWU), Mignotae Kebede is dedicated to exploring the intersections between creative expression and social change.
@@ -12,11 +12,11 @@ After graduating with a Bachelors of Arts in International Affairs and Anthropol
 Mignotae found herself experiencing the binary composition of Washington, D.C. as a transplant residing in a renovated unit in Columbia Heights, yet working in the districts most underserved communities just miles away. After months of experiencing the cities’ stark dichotomy, she began to unpack the implications of being a black ‘gentrifier’. Hit with an initial sentiment of guilt, she researched Chocolate City’s complex history attempting to understand it’s polarized social, political and economic climate. In pursuit to answer the underlying question, “what happened to Chocolate City?”, Mignotae is conducting ethnographic research on the evolution of the district and its relations with native Black Washingtonians through an intergenerational lens. It is at the very intersection of creative expression and social change that Mignotae will bring to life her findings and explorative journey using film and varying mediums of visual and fine arts.
 
 
-## Dr. Menna Demessie in her own words
+## Mignotae Kebede in her own words
 
 ### 1. Being a part of the Ethiopian diaspora to me means?
 
-Being a member of the Ethiopian community is a badge of honor I wear proudly. Home to one of the oldest fossil in the world, the birthplace of coffee, the only country to claim to have the Ark of the Covenant, the only country with unique foods like injera, home to Lake Tana – the source of the Blue Nile, home to the oldest written bible on earth, never colonized, and defeating the Italians in the Battle of Adwa and after, the site of universal black liberation, home of the Africa Union, the list goes on and on. We come from a long lineage of pride, resilience, and history, so to be part of the Ethiopian diaspora is not only a distinct honor, but a huge responsibility to ensure our legacy and history continue. Furthermore, any diaspora community is privileged to sit in between two cultures, so for me working to be a bridge builder and empower my community is almost inherent in the definition of my identity. It means recognizing the sacrifices of my parents and their generation as they assimilated in the United States and understanding that I stand on the shoulders of my parents, so that I can do my part to let my brothers and sisters stand on my shoulders, so they may have a better opportunity to pass on to the next generation.
+I find it to be a true blessing to be a part of the Ethiopian and Eritrean diaspora. We have a strong sense of community, which has provided me with so much support. I would not be where I am today without my community back in LA or the community that I have here in the DMV as well. I owe much of my development as an individual and as a part of the larger diaspora to my parents. They taught me and my brothers to respect and cherish our culture, all while understanding the importance of individualism, allowing us to truly find our voice and how to use it for the greater good of humanity.
 
 ### 2. What advice would you give a younger you?
 
