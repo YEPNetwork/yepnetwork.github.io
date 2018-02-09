@@ -1,8 +1,8 @@
 ---
 layout: diaspora
-title: Dr. Menna Demessie
+title: Mignotae Kebede
 position: Film Producer and Development Manager at Life Pieces To Masterpieces(LPTM)
-image: menna-demessie.jpg
+image: mignotae-kebede.png
 body_class: diaspora-detail
 ---
 A native Californian and graduate of The George Washington University (GWU), Mignotae Kebede is dedicated to exploring the intersections between creative expression and social change.
@@ -13,7 +13,7 @@ Mignotae found herself experiencing the binary composition of Washington, D.C. a
 
 ## Mignotae Kebede in her own words
 
-### 1. Being apart of the Ethiopian diaspora to me means?
+### 1. Being a part of the Ethiopian diaspora to me means?
 
 I find it to be a true blessing to be a part of the Ethiopian and Eritrean diaspora. We have a strong sense of community, which has provided me with so much support. I would not be where I am today without my community back in LA or the community that I have here in the DMV as well. I owe much of my development as an individual and as a part of the larger diaspora to my parents. They taught me and my brothers to respect and cherish our culture, all while understanding the importance of individualism, allowing us to truly find our voice and how to use it for the greater good of humanity.
 
