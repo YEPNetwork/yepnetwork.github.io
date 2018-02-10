@@ -8,6 +8,17 @@ body.diaspora {
         max-height: 300px;
         min-height: 200px;
         overflow: hidden;
+        @media only screen and (max-width : 768px) {
+          max-height: none;
+          min-height: 200px;
+        }
+      }
+
+      .col-sm-3 {
+        padding-left: 0; // Remove whitespace on left.
+        @media only screen and (max-width : 768px) {
+          padding-right: 0;
+        }
       }
 
       .blurb {
