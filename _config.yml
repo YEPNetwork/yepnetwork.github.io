@@ -6,7 +6,7 @@ description: >
  A Jekyll starter for YEP theme.
 baseurl: ""
 url: ""
-analytics: ''
+analytics: 'UA-99899073-1'
 
 # Special content types.
 collections:
