@@ -5,7 +5,9 @@
       <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
         <div class="card">
           <figure>
-            <img src="{{ event.image }}">
+            {% if event.image %}
+            <img src="{{ site.baseurl }}/assets/images/events/{{ event.image }}">
+            {% endif %}
           </figure>
           <div class="copy-holder">
             <h3>{{ event.title }}</h3>
@@ -14,7 +16,11 @@
               <p>{{ event.venue }}</p>
             </div>
             <p>
-            <a target="_blank" href="{{ event.url }}" class="btn btn-donate">Learn More</a>
+            {% if event.eventbrite %}
+              <a target="_blank" href="{{ event.eventbrite }}" class="btn btn-donate">Learn More</a>
+            {% else %}
+              <a href="{{ event.url }}" class="btn btn-donate">Learn More</a>
+            {% endif %}
             </p>
           </div>
         </div>
