@@ -39,6 +39,16 @@
         &:hover {
           background: #636466;
         }
+        // Less than 1200 should be smaller.
+        @media (max-width: 1200px) {
+          font-size: 1em;
+          padding: 0 25px;
+        }
+        // lower than iPad should be even smaller.
+        @media (max-width: 992px) {
+          font-size: 0.9em;
+          padding: 0 25px;
+        }
       }
     }
 
