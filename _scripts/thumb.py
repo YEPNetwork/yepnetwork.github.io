@@ -4,7 +4,7 @@
 from PIL import Image
 import os, sys
 
-def resizeImage(infile, output_dir="", size=(128,128)):
+def resizeImage(infile, output_dir="", size=(400,400)):
   outfile = os.path.splitext(infile)[0]
   extension = os.path.splitext(infile)[1]
 
