@@ -35,9 +35,11 @@ images:
     <div class="row card-grid">
       <div id="links">
         {% for img in page.images %}
-        <a href="{{ site.baseurl }}/assets/gallery/{{ img }}" title="{{ img }}">
-          <img src="{{ site.baseurl }}/assets/gallery/thumbnail/{{ img }}" alt="Thunbmail for {{ img }}">
-        </a>
+        <div class="col-md-3">
+          <a href="{{ site.baseurl }}/assets/gallery/{{ img }}" title="{{ img }}">
+            <img src="{{ site.baseurl }}/assets/gallery/thumbnail/{{ img }}" alt="{{ img }}">
+          </a>
+        </div>
         {% endfor %}
       </div>
     </div>
