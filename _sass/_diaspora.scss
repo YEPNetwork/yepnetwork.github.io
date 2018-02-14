@@ -41,11 +41,18 @@ body.diaspora {
     font-weight: bold;
   }
 
-  .diaspora-profile-sidebar {
-    > .profile-image {
+  // See https://codepen.io/nailaahmad/pen/jorKC.
+  .profile-image {
+    float: left;
+    margin-right: 20px;
+    min-width: 200px;
+    margin-bottom: 20px;
+    @media only screen and (min-width: 768px) {
       max-width: 200px;
-      min-width: 200px;
-      overflow: hidden;
     }
+    overflow: hidden;
+  }
+
+  .story {
   }
 }
