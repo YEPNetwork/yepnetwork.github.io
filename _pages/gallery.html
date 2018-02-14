@@ -3,6 +3,16 @@ layout: default
 title: Gallery
 permalink: /gallery/
 body_class: gallery
+images:
+- HM6A0067.jpg
+- HM6A0074.jpg
+- HM6A0078.jpg
+- HM6A0080.jpg
+- HM6A0089.jpg
+- HM6A0092.jpg
+- HM6A0094.jpg
+- HM6A0098.jpg
+- HM6A0099.jpg
 ---
 <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
 <div id="blueimp-gallery" class="blueimp-gallery">
@@ -15,27 +25,23 @@ body_class: gallery
     <ol class="indicator"></ol>
 </div>
 
-
 <div class="prose bg-white">
   <div class="container pad-by-50">
     <div class="row">
       <div class="col-sm-12">
-        <h1 class="margin-top-0 margin-bottom-2">Our Team</h1>
+        <h1 class="margin-top-0 margin-bottom-2">Gallery</h1>
       </div>
     </div>
     <div class="row card-grid">
-
+      <div id="links">
+        {% for img in page.images %}
+        <a href="{{ site.baseurl }}/assets/gallery/{{ img }}" title="{{ img }}">
+          <img src="{{ site.baseurl }}/assets/gallery/thumbnail/{{ img }}" alt="Thunbmail for {{ img }}">
+        </a>
+        {% endfor %}
+      </div>
     </div>
   </div>
-</div>
-
-<div id="links">
-	<a href="/assets/images/programs/career-development.jpg" title="Banana">
-		<img src="/assets/images/programs/career-development.jpg" alt="Banana">
-	</a>
-	<a href="/assets/images/programs/diaspora-engagement.jpg" title="Apple">
-		<img src="/assets/images/programs/diaspora-engagement.jpg" alt="Apple">
-	</a>
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/blueimp-gallery.min.js"></script>
@@ -50,4 +56,3 @@ document.getElementById('links').onclick = function (event) {
     blueimp.Gallery(links, options);
 };
 </script>
-
