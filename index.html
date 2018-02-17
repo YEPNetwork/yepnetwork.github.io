@@ -11,5 +11,30 @@ body_class: front
   </div>
 </section>
 
-{% include callout.html %}
-
+<div class="overview featured-programs">
+  <section class="sub-navigation">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center margin-bottom-4">
+          <h2 class="h1 section-head">What We Do</h2>
+          <p class="intro">Building a platform. Connecting the Ethiopian Diaspora</p>
+        </div>
+        {% assign programs = site.programs | where:'featured', 'true' %}
+        {% for program in programs limit:3 %}
+        <div class="col-md-4">
+          <div class="card">
+            <a href="{{ program.url | prepend: site.baseurl }}">
+            <figure>
+              <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+            </figure>
+            </a>
+            <h3>{{ program.title }}</h3>
+            <p>{{ program.description | strip_html | truncatewords:22 }}</p>
+            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</div>
