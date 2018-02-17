@@ -8,15 +8,15 @@ body_class: about
 sections:
   - title: Origin Story
     desc: In 2010, Mesfin Getaneh, Shimeles Mekonnen, and Lulit Tesfaye began working to establish YEP.
-    image: programs_callout_1.jpg
+    image: assets/images/programs/professional-mentorship.jpg
     path: /about/origin
   - title: Accomplishments
     desc: For close to a decade, YEP has hosted numerous networking events, career development workshops and more.
-    image: 2015-04-30-thomas-debass.jpg
+    image: assets/images/2015-04-30-thomas-debass.jpg
     path: /about/accomplishments
   - title: Team
     desc: Meet the members of the YEP team and learn more about their journey to join this mission-driven organization and the role they play.
-    image: programs_callout_3.jpg
+    image: assets/images/programs/diaspora-engagement.jpg
     path: /about/team
 ---
 {% include about-nav.html %}
@@ -29,7 +29,7 @@ sections:
       </div>
       <div class="container">
         <p style="font-size: 2rem; font-weight: 400; margin-bottom: 1.5em;">
-          Your Ethiopian Professionals Network (YEP) is a community of diverse professionals who strive for growth, excellence, and 
+          Your Ethiopian Professionals Network (YEP) is a community of diverse professionals who strive for growth, excellence, and
           success.
           <img src="our_team.jpg" alt="Our Team">
         </p>
@@ -48,15 +48,15 @@ sections:
         <div class="col-sm-12 col-md-6">
           <h2 style="margin-top: 0">Who We Are</h2>
           <p style="margin-bottom: 1em">
-            Your Ethiopian Professionals Network (YEP) is a 501(c)(3), non-profit, non-political, and non-religious organization that 
-            provides a broader platform for the Ethiopian diaspora across all professions and walks of life to connect, network, 
+            Your Ethiopian Professionals Network (YEP) is a 501(c)(3), non-profit, non-political, and non-religious organization that
+            provides a broader platform for the Ethiopian diaspora across all professions and walks of life to connect, network,
             share experiences, exchange valuable resources and pursue community development initiatives.
           </p>
           <p style="margin-bottom: 1em">
-          YEP was founded in 2010 by three individuals who recognized 
-          the lack of effective networking platforms for the diverse 
-          Ethiopian professionals in the Washington Metropolitan area. 
-          YEP began by featuring inspirational speakers, hosting educational sessions and providing 
+          YEP was founded in 2010 by three individuals who recognized
+          the lack of effective networking platforms for the diverse
+          Ethiopian professionals in the Washington Metropolitan area.
+          YEP began by featuring inspirational speakers, hosting educational sessions and providing
           networking opportunities to support its mission.
 
           </p>
@@ -76,7 +76,7 @@ sections:
           <div class="col-xs-12 col-md-4">
             <div class="card">
               <figure>
-                <img src="/assets/images/{{ item.image }}">
+                <img src="{{ site.baseurl }}/{{ item.image }}">
               </figure>
               <div class="copy-holder">
                 <h3>{{ item.title }}</h3>
