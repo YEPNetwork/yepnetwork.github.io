@@ -1,59 +1,27 @@
-<section id="programs-callout">
-  <div class="container">
-    <h2 class="h1 section-head">What We Do</h2>
-    <p class="intro">Building a platform. Connecting the Ethiopian Diaspora</p>
-    <div class="row">
-      <div class="col-xs-12 col-md-4">
-        <div class="card">
-          <figure>
-            <img src="/assets/images/programs_callout_1.jpg">
-          </figure>
-          <div class="copy-holder">
-            <h3 align="left">Professional Empowerment</h3>
-            <p  align="left">
-           Providing the tools and resources that help members excel in their different stages of career development journey.
-            <br>
-            <a href="https://yepnetwork.github.io/programs/career-development.html" class="has-mp-click btn btn-donate">Learn More</a>
-            </p>
+<div class="overview featured-programs">
+  <section class="sub-navigation">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center margin-bottom-4">
+          <h2 class="h1 section-head">What We Do</h2>
+          <p class="intro">Building a platform. Connecting the Ethiopian Diaspora</p>
+        </div>
+        {% assign programs = site.programs | where:'featured', 'true' %}
+        {% for program in programs limit:3 %}
+        <div class="col-md-4">
+          <div class="card">
+            <a href="{{ program.url | prepend: site.baseurl }}">
+            <figure>
+              <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+            </figure>
+            </a>
+            <h3>{{ program.title }}</h3>
+            <p>{{ program.description | strip_html | truncatewords:22 }}</p>
+            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
           </div>
         </div>
-      </div>
-      <!-- /.col -->
-      <div class="col-xs-12 col-md-4">
-        <div class="card">
-          <figure>
-            <img src="/assets/images/programs_callout_2.jpg">
-          </figure>
-          <div class="copy-holder">
-            <h3  align="left">Personal Empowerment </h3>
-            <p  align="left">
-            Providing the tools and resources that help members develop the confidence and 
-              strength to set realistic goals and fulfil their potential.
-            <br>
-            <a href="https://yepnetwork.github.io/programs/personal-professional-empowerment.html" class="has-mp-click btn btn-donate">Learn More</a>
-            </p>
-          </div>
-        </div>
-      </div>
-      <!-- /.col -->
-      <div class="col-xs-12 col-md-4">
-        <div class="card">
-          <figure>
-            <img src="/assets/images/programs_callout_3.jpg">
-          </figure>
-          <div class="copy-holder">
-            <h3  align="left">Community Empowerment </h3>
-            <p  align="left">
-            Bringing our community together and support the development of a
-            cohesive network through various activities.
-            <br>
-            <a href="https://yepnetwork.github.io/programs/diaspora-community-engagement.html" class="has-mp-click btn btn-donate">Learn More</a>
-            </p>
-          </div>
-        </div>
+        {% endfor %}
       </div>
     </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
-</section>
+  </section>
+</div>
