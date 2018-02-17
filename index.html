@@ -21,7 +21,7 @@ body_class: front
         </div>
         {% assign programs = site.programs | where:'featured', 'true' %}
         {% for program in programs limit:3 %}
-        <div class="col-md-4">
+        <div class="col-sm-5 col-md-4">
           <div class="card">
             <a href="{{ program.url | prepend: site.baseurl }}">
             <figure>

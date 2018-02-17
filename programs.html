@@ -22,7 +22,7 @@ body_class: programs
     <div class="container">
       <div class="row">
         {% for program in site.programs limit:include.limit %}
-        <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
+        <div class="col-sm-5 col-md-4" style="margin-bottom: 1em;">
           <div class="card">
             <a href="{{ program.url | prepend: site.baseurl }}">
             <figure>
