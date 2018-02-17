@@ -14,30 +14,28 @@ body_class: programs
   </div>
 </section>
 
-<div class="bg-gray card-grid">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 text-center margin-bottom-4">
-        <h2 class="margin-top-0">Our Programs</h2>
-      </div>
-      {% for program in site.programs limit:include.limit %}
-      <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
-        <div class="card">
-          <figure>
-            <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
-          </figure>
-          <div class="copy-holder">
+<div class="bg-gray overview">
+  <div class="col-sm-12 text-center margin-bottom-4">
+    <h2 class="">Our Programs</h2>
+  </div>
+  <section class="sub-navigation">
+    <div class="container">
+      <div class="row">
+        {% for program in site.programs limit:include.limit %}
+        <div class="col-xs-12 col-md-4" style="margin-bottom: 1em;">
+          <div class="card">
+            <a href="{{ program.url | prepend: site.baseurl }}">
+            <figure>
+              <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+            </figure>
+            </a>
             <h3>{{ program.title }}</h3>
-            <div class="desc">
-              <p>{{ program.content | strip_html | truncatewords:28 }}</p>
-            </div>
-            <p>
-            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
-            </p>
+            <p>{{ program.content | strip_html | truncatewords:18 }}</p>
+            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-default">Learn More</a>
           </div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
-  </div>
+  </section>
 </div>

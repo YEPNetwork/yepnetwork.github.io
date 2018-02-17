@@ -1,25 +1,15 @@
 // Program style.
 body.programs {
-  .card-grid {
+  .overview {
     figure {
       max-height: 200px;
       min-height: 200px;
       overflow: hidden;
     }
-
-    .card {
-      h3 {
-        min-height: 100px;
-      }
-
-      .desc {
-        min-height: 100px;
-      }
-    }
   }
 }
 
-// On homepage.
+// On homepage and programs landing page.
 .featured-programs {
   p.intro {
     text-align: center;
