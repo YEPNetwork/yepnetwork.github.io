@@ -1,0 +1,84 @@
+---
+layout: page
+title: Events
+header: Events
+group: navigation
+permalink: /events/
+body_class: events
+---
+<div id="hero" style="background-image: url(/assets/images/events/summer-gala-2017_2.JPG); background-position: center 0px;">
+  <div class="hero-overlay"></div>
+  <div class="hero-content-wrapper">
+    <div class="container text-center">
+      <h2>YEP Events</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="col-md-8">
+    <div class="overview">
+      <section class="sub-navigation">
+        <div class="">
+          <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#menu1">Upcoming events</a></li>
+            <li><a data-toggle="tab" href="#menu2">Past events</a></li>
+          </ul>
+            <div class="tab-content">
+            <div id="menu1" class="tab-pane fade in active">
+              <div class="row margin-top-2">
+              {% for event in site.events %}
+                <div class="col-sm-5 col-md-5" style="">
+                  <div class="card">
+                    {% if event.eventbrite %}
+                      <a target="_blank" href="{{ event.eventbrite }}">
+                    {% else %}
+                      <a href="{{ event.url }}">
+                    {% endif %}
+                      <figure>
+                        {% if event.image %}
+                        <img src="{{ site.baseurl }}/assets/images/events/{{ event.image }}">
+                        {% endif %}
+                      </figure>
+                    </a>
+                    <h3>{{ event.title }}</h3>
+                    <p>{{ event.date }}</p>
+                    <p>{{ event.venue }}</p>
+                    {% if event.eventbrite %}
+                      <a target="_blank" href="{{ event.eventbrite }}" class="btn btn-default">Learn More</a>
+                    {% else %}
+                      <a href="{{ event.url }}" class="btn btn-default">Learn More</a>
+                    {% endif %}
+                  </div>
+                </div>
+              {% endfor %}
+              </div>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+              <div class="row margin-top-2">
+              {% for event in site.data.events %}
+                <div class="col-sm-5 col-md-5" style="">
+                  <div class="card">
+                    <a target="_blank" href="{{ event.url }}">
+                      <figure>
+                        <img src="{{ event.image }}">
+                      </figure>
+                    </a>
+                    <h3>{{ event.title }}</h3>
+                    <p>{{ event.date }}</p>
+                    <p>{{ event.venue }}</p>
+                    <a target="_blank" href="{{ event.url }}" class="btn btn-default">Learn More</a>
+                  </div>
+                </div>
+              {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <div class="col-md-4">
+    {% include instagram.html %}
+  </div>
+</div>
