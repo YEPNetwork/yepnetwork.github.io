@@ -15,6 +15,8 @@ body_class: events
   </div>
 </div>
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+
 <div class="bg-gray overview">
   <section class="sub-navigation">
     <div class="container">
@@ -25,49 +27,45 @@ body_class: events
         <div class="tab-content">
         <div id="menu1" class="tab-pane fade in active">
           <div class="row margin-top-2">
-          {% for event in site.events %}
-            <div class="event-item col-xs-12 col-md-4" style="">
-              <div class="card">
-                {% if event.eventbrite %}
-                  <a target="_blank" href="{{ event.eventbrite }}">
-                {% else %}
-                  <a href="{{ event.url }}">
-                {% endif %}
-                  <figure>
-                    {% if event.image %}
-                    <img src="{{ site.baseurl }}/assets/images/events/{{ event.image }}">
-                    {% endif %}
-                  </figure>
-                </a>
-                <h3>{{ event.title }}</h3>
-                <p>{{ event.date }}</p>
-                <p>{{ event.venue }}</p>
-                {% if event.eventbrite %}
-                  <a target="_blank" href="{{ event.eventbrite }}" class="btn btn-default">Learn More</a>
-                {% else %}
-                  <a href="{{ event.url }}" class="btn btn-default">Learn More</a>
-                {% endif %}
-              </div>
-            </div>
+          {% for event in site.data.events %}
+            {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+              {% if eventtime > nowunix %}
+                <div class="event-item col-sm-5 col-md-4" style="">
+                  <div class="card">
+                    <a target="_blank" href="{{ event.url }}">
+                      <figure>
+                        <img src="{{ event.image }}">
+                      </figure>
+                    </a>
+                    <h3>{{ event.title }}</h3>
+                    <p>{{ event.date }}</p>
+                    <p>{{ event.venue }}</p>
+                    <a target="_blank" href="{{ event.url }}" class="btn btn-default">Learn More</a>
+                  </div>
+                </div>
+              {% endif %}
           {% endfor %}
           </div>
         </div>
         <div id="menu2" class="tab-pane fade">
           <div class="row margin-top-2">
           {% for event in site.data.events %}
-            <div class="event-item col-sm-5 col-md-4" style="">
-              <div class="card">
-                <a target="_blank" href="{{ event.url }}">
-                  <figure>
-                    <img src="{{ event.image }}">
-                  </figure>
-                </a>
-                <h3>{{ event.title }}</h3>
-                <p>{{ event.date }}</p>
-                <p>{{ event.venue }}</p>
-                <a target="_blank" href="{{ event.url }}" class="btn btn-default">Learn More</a>
-              </div>
-            </div>
+            {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+              {% if eventtime < nowunix %}
+                <div class="event-item col-sm-5 col-md-4" style="">
+                  <div class="card">
+                    <a target="_blank" href="{{ event.url }}">
+                      <figure>
+                        <img src="{{ event.image }}">
+                      </figure>
+                    </a>
+                    <h3>{{ event.title }}</h3>
+                    <p>{{ event.date }}</p>
+                    <p>{{ event.venue }}</p>
+                    <a target="_blank" href="{{ event.url }}" class="btn btn-default">Learn More</a>
+                  </div>
+                </div>
+              {% endif %}
           {% endfor %}
           </div>
         </div>
