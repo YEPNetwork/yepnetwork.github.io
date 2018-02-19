@@ -3,7 +3,6 @@
     // Show upcoming events by default.
     // @see https://getbootstrap.com/docs/3.3/javascript/#tabs.
     // @see https://stackoverflow.com/a/40142438/871793.
-    //$('#eventsTab a[href="#upcoming"]').tab('show') // Select tab by name
 
     // Events landing page.
     if ($("body").hasClass("events")) {
@@ -13,6 +12,14 @@
       if (len1 > 0) {
         $('.nav-tabs > li:first > a').append(' (' + len1 + ')');
         $('.nav-tabs > li:last > a').append(' (' + len2 + ')');
+      } else {
+        // Setting timeout just for kicks; may not be necessary.
+        setTimeout(
+          function() {
+            $('.nav-tabs > li > a[href="#menu2"]').tab("show");
+            $('.nav-tabs > li:first > a').attr("disabled", true);
+          },
+        5);
       }
     }
   });
