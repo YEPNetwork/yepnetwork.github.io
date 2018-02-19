@@ -40,7 +40,11 @@ body_class: events
                     <h3>{{ event.title }}</h3>
                     <p>{{ event.date }}</p>
                     <p>{{ event.venue }}</p>
+                    {% if event.url == '' %}
+                    <a href="#" class="btn btn-default">Learn More</a>
+                    {% else %}
                     <a target="_blank" href="{{ event.url }}" class="btn btn-default">Learn More</a>
+                    {% endif %}
                   </div>
                 </div>
               {% endif %}
