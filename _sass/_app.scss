@@ -599,15 +599,6 @@ body .btn.btn-wrap {
 }
 
 #sitehead .supernav .socmed li,
-#footer2 .socmed li {
-  float: left;
-  padding-left: 15px;
-  font-size: 24px;
-}
-
-#footer2 .socmed li {
-  font-size: 40px;
-}
 
 #mp-badge img {
   float: right;
@@ -641,44 +632,12 @@ body .btn.btn-wrap {
   text-align: left;
 }
 
-#footer2 .socmed li.twitter i {
-  font-size: 50px;
-  font-size: 5.0rem;
-  padding-top: 0;
-}
-
-#footer2 .socmed li.facebook i {
-  font-size: 39px;
-  font-size: 3.95rem;
-  padding-top: 6px;
-}
-
-#footer2 .socmed li.google-plus i {
-  font-size: 39px;
-  font-size: 3.9rem;
-  padding-top: 6px;
-}
-
-#footer2 .socmed li.newsletter i {
-  font-size: 48px;
-  font-size: 4.8rem;
-}
-
 #sitehead .supernav .socmed li a {
   color: #636466;
 }
 
 #sitehead .supernav .socmed li a:hover,
 #sitehead .supernav .socmed li a:active,
-#footer2 .socmed li a:hover,
-#footer2 .socmed li a:active {
-  color: #F38B00;
-}
-
-#footer2 .socmed li a {
-  color: #FFF;
-}
-
 #google_translate_element {
   margin-top: 5px;
 }
@@ -3043,75 +3002,6 @@ a.cta_button:hover .blog-cta .inner-cta {
   margin-top: 0;
 }
 
-#footer2 .donate .row {
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-#footer2 .donate h2 {
-  color: #FFF;
-  font-size: 46px;
-  font-size: 4.6rem;
-  margin: 0;
-  text-shadow: 0 0 3px rgba(0, 0, 0, .4);
-}
-
-#footer2 .donate p {
-  font-size: 3rem;
-  font-size: 30px;
-  text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
-  line-height: 1.3;
-}
-
-#footer2 .btn.btn-donate {
-  font-size: 30px;
-}
-
-#footer2 {
-  padding: 0 0 23px 0;
-  font-size: 12px;
-  line-height: 23px;
-  background: $site-secondary-color;
-  color: #FFF;
-}
-
-#footer2 .row {
-  padding-top: 28px;
-}
-
-#footer2 .fine-print,
-#footer2 h4,
-#footer2 ul,
-#footer2 li,
-#footer2 a {
-  color: #FFF;
-}
-
-#footer2 ul {
-  padding: 0;
-}
-
-#footer2 ul li {
-  list-style-type: none;
-  font-size: 11px;
-  font-size: 1.1rem;
-  line-height: 1.0;
-}
-
-#footer2 h4 {
-  font-weight: bold;
-  font-size: 13px;
-  font-size: 1.3rem;
-  margin-top: 0;
-}
-
-#footer2 .fine-print {
-  font-size: 10px;
-  font-size: 1rem;
-  padding-top: 24px;
-}
-
-
 /* Form Errors */
 
 .form-group label.error,
@@ -3194,10 +3084,6 @@ only screen and (max-width: 767px) {
 
 #mainnav .container {
   padding: 0 0 0 12px;
-}
-
-#footer2 .socmed {
-  float: right;
 }
 
 .content .col>h2:first-child {
@@ -3350,17 +3236,6 @@ p.button .btn-expander {
     font-size: 28px;
     font-size: 2.8rem;
   }
-  #footer2 .btn.btn-donate {
-    font-size: 24px;
-  }
-  #footer2 .donate h2 {
-    font-size: 36px;
-    font-size: 3.6rem;
-  }
-  #footer2 .donate p {
-    font-size: 26px;
-    font-size: 2.6rem;
-  }
 }
 
 @media (min-width: 768px) {
@@ -3437,24 +3312,6 @@ p.button .btn-expander {
   }
   #formEventNotificationSignup {
     margin-bottom: 30px;
-  }
-  #footer2 .fine-print {
-    padding-top: 0px;
-  }
-  #footer2 .donate {
-    height: 315px;
-  }
-  #footer2 .donate .container {
-    height: 315px;
-    background-size: 38%;
-  }
-  #footer2 .donate h2 {
-    font-size: 28px;
-    font-size: 2.8rem;
-  }
-  #footer2 .donate p {
-    font-size: 20px;
-    font-size: 2.0rem;
   }
 }
 
@@ -3534,40 +3391,6 @@ p.button .btn-expander {
   .workshop .btn-rsvp {
     width: 100%;
     margin-top: 10px;
-  }
-  #footer2 .row {
-    padding-top: 0px;
-  }
-  #footer2 .socmed {
-    float: left;
-    padding-top: 10px;
-  }
-  /*#footer2 .donate .row { margin-bottom: 0; }*/
-  #footer2 .donate,
-  #footer2 .donate .container {
-    height: auto;
-    background: none;
-    background-color: #00AFD7;
-  }
-  #footer2 .btn.btn-donate {
-    font-size: 24px;
-    display: block;
-    text-align: center;
-  }
-  #footer2 .donate h2,
-  #footer2 .donate p {
-    text-align: center;
-    color: #FFF;
-    text-shadow: none;
-  }
-  #footer2 .donate h2 {
-    font-size: 28px;
-    font-size: 2.8rem;
-  }
-  #footer2 .donate p {
-    text-align: left;
-    font-size: 20px;
-    font-size: 2.0rem;
   }
 }
 
