@@ -88,23 +88,26 @@
     line-height: 1.0;
   }
 
-  > .footer-social-media-container {
-    background-color: rgba(0,0,0,.1);
-    h6 {
-      font-size: 18px;
-    }
-    div.text-right {
-      padding-top: 0.5em;
-    }
-  }
-  > .container {
-    &.footer-main-content {
-      h5 {
-        padding-bottom: 1em;
+  > .footer-wrapper {
+    > .footer-social-media-container {
+      background-color: rgba(0,0,0,.1);
+      h6 {
+        font-size: 18px;
       }
-      .col {
-        margin-top: 2em;
-        margin-bottom: 2em;
+      div.text-right {
+        padding-top: 0.5em;
+      }
+    }
+
+    > .container {
+      &.footer-main-content {
+        h5 {
+          padding-bottom: 1em;
+        }
+        .col {
+          margin-top: 2em;
+          margin-bottom: 2em;
+        }
       }
     }
   }
