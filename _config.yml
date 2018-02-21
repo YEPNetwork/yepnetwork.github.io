@@ -28,9 +28,9 @@ about:
   - title: Mission & Vision
     class: mission
     path: /about/mission
-  - title: Origin Story
+  - title: Our History
     class: origin
-    path: /about/origin
+    path: /about/history
   - title: Accomplishments
     class: accomplishments
     path: /about/accomplishments
