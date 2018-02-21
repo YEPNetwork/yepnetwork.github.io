@@ -30,7 +30,7 @@ body_class: programs
             </figure>
             </a>
             <h3>{{ program.title }}</h3>
-            <p>{{ program.content | strip_html | truncatewords:18 }}</p>
+            <p>{{ program.description | strip_html | truncatewords:18 }}</p>
             <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-default">Learn More</a>
           </div>
         </div>
