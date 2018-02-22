@@ -38,4 +38,12 @@ body.front {
       padding: 0px 20px;
     }
   }
+
+  #featured {
+    figure {
+      max-height: 136px;
+      min-height: 136px;
+      overflow: hidden;
+      }
+  }
 }

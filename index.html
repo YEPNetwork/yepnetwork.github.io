@@ -57,3 +57,23 @@ body_class: front
     </div>
   </div>
 </section>
+
+<section id="featured">
+  <div class="container">
+    <h2 class="h1 section-head">News &amp; Updates</h2>
+    <p class="intro">Learn about our latest activities</p>
+    <div class="row">
+      {% for item in site.data.featured %}
+        <div class="col-sm-6 col-md-3">
+          <div class="card">
+            <figure>
+              <a href="#"><img src="{{ site.baseurl }}/{{ item.image }}" class="" alt="{{ item.title }}"></a>
+              <h4>Read more</h4>
+            </figure>
+            <h3><a href="#" title="{{ item.title }}">{{ item.title }}</a></h3>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
