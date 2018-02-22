@@ -66,28 +66,28 @@ sections:
 </div>
 
 <div class="prose bg-white">
-  <div class="container pad-by-50">
-    <section id="programs-callout">
-      <div class="container">
-        <div class="row">
-          {% for item in page.sections %}
-          <div class="col-xs-12 col-md-4">
-            <div class="card">
-              <figure>
-                <img src="{{ site.baseurl }}/{{ item.image }}">
-              </figure>
-              <div class="copy-holder">
+  <div class="overview">
+    <div class="container pad-by-50">
+      <section class="sub-navigation">
+        <div class="container">
+          <div class="row">
+            {% for item in page.sections %}
+            <div class="col-sm-5 col-md-4" style="margin-bottom: 1em;">
+              <div class="card">
+                <a href="{{ item.path }}">
+                <figure>
+                  <img src="{{ site.baseurl }}/{{ item.image }}">
+                </figure>
+                </a>
                 <h3>{{ item.title }}</h3>
-                <p>{{ item.desc }}
-                <br>
+                <p>{{ item.desc }}</p>
                 <a href="{{ item.path }}" class="btn btn-default">{{ item.title }}</a>
-                </p>
               </div>
             </div>
+            {% endfor %}
           </div>
-          {% endfor %}
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   </div>
 </div>
