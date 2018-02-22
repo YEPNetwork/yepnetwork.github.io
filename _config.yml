@@ -25,7 +25,7 @@ collections:
 
 # About section sub-nav.
 about:
-  - title: Mission & Vision
+  - title: Vision & Mission 
     class: mission
     path: /about/mission
   - title: Our History
