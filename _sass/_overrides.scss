@@ -163,3 +163,10 @@ body.gallery {
     margin-bottom: 2em;
   }
 }
+
+// Override mailchimp form control labels on frontpage.
+section#email-signup {
+  .control-label {
+    color: #fff;
+  }
+}
