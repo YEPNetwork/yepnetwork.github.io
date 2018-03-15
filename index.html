@@ -19,18 +19,18 @@ body_class: front
           <h2 class="h1 section-head">Get Involved</h2>
           <p class="intro">Building a platform, connecting the Ethiopian Diaspora</p>
         </div>
-      {% assign programs = site.programs | where:'featured', 'true' %}
-        {% for program in programs limit:3 %}
+        {% assign items = site.data.calls %}
+        {% for item in items limit:3 %}
         <div class="col-sm-5 col-md-4">
           <div class="card">
-            <a href="{{ program.url | prepend: site.baseurl }}">
+            <a href="{{ item.url | prepend: site.baseurl }}">
             <figure>
-              <img src="{{ "/assets/images/programs/" | prepend: site.baseurl }}{{ program.img }}">
+              <img src="{{ "/" | prepend: site.baseurl }}{{ item.image }}">
             </figure>
             </a>
-            <h3>{{ program.title }}</h3>
-            <p>{{ program.description | strip_html | truncatewords:22 }}</p>
-            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
+            <h3>{{ item.title }}</h3>
+            <p>{{ item.description | strip_html | truncatewords:22 }}</p>
+            <a href="{{ item.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
           </div>
         </div>
         {% endfor %}
