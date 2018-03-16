@@ -96,10 +96,12 @@ body_class: front
         <div class="col-sm-6 col-md-3">
           <div class="card">
             <figure>
-              <a href="#"><img src="{{ site.baseurl }}/{{ item.image }}" class="" alt="{{ item.title }}"></a>
-              <h4>Read more</h4>
+              <a href="{{ item.url }}">
+                <img src="{{ site.baseurl }}/{{ item.image }}" class="" alt="{{ item.title }}">
+                <h4>Read more</h4>
+              </a>
             </figure>
-            <h3><a href="#" title="{{ item.title }}">{{ item.title }}</a></h3>
+            <h3><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h3>
           </div>
         </div>
      {% endfor %}
