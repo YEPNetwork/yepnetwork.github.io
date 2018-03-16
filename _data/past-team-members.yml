@@ -1,10 +1,37 @@
+ 
+ - name: Elbethel Gebrehiwot
+  position: Program Officer at FHI 360
+  image: elbethel-gebrehiwot.jpg
+  - name: Deresse (Dee) Harris
+  position: Senior Consultant at Navigator Management Partners
+  image: dee-harris.jpg
 - name: Tigest Alemu
-- name: Sabel G. Kassa
-- name: Anna Jemaneh
-- name: Elbethel Gebrehiwot
-- name: Deresse (Dee) Harris
-- name: Tigest Ruga
-- name: Zewdu Beyen
+  position: Director of Program Support Services at The Jubilee Association of Maryland
+  image: tigest-alemu.jpg
+ - name: Tadu Yimam
+  position: Senior Director, Online Learning and Publications
+  image: tadu-yimam.jpg
+  - name:
+  position:
+  image:
+- name: Sabel Kassa
+  position: Senior Business System Analyst at USAC
+  image: sabel-kassa.jpg
 - name: Birhanu Abate
-- name: Yanit Belachew
+  position: Director of Membership Services
+  image: birhanu-abate.jpg
+- name: Anna Jemaneh
+  position: Accounting Manager at Tempus, Inc
+  image: anna-jemaneh.jpg
+- name: Zewdu Beyen
+  position: Patent Examiner at USPTO
+  image: zewdu-beyen.jpg
 - name: Solomon Garedew
+  position: Business and System Integration Consultant at Accenture
+  image: solomon-garedew.jpg
+  - name: Teddy Tesfaye
+  position: Founder and Executive Vice Chair
+  image: teddy-tesfaye.jpg
+ - name:
+  position:
+  image:
