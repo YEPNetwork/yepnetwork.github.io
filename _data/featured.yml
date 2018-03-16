@@ -1,12 +1,12 @@
-- title: "Diaspora Story: Menna Demessie"
-  url: /diaspora-corner/menna-demessie/
-  image: assets/images/diaspora/menna-demessie-portrait.png
 - title: "Latest Event: Effective Communication Skills"
-  url: https://www.eventbrite.com/e/effective-communication-skills-what-are-they-and-how-to-improve-them-tickets-42182466894#
+  url: https://yepnetwork.github.io/events/
   image: assets/images/events/2018-02-15-effective-comm.jpg
 - title: Meet the Team
   url: /about/team/
   image: assets/images/team.jpg
-- title: Lorem ipsum
-  url: #
+  - title: "Diaspora Story: Mignotae Kebede"
+  url: /diaspora-corner/mignotae-kebede/
+  image: assets/images/diaspora/menna-demessie-portrait.png
+- title: "Diaspora Story: Menna Demessie"
+  url: diaspora-corner/menna-demessie/
   image: assets/images/programs/diaspora-engagement.jpg
