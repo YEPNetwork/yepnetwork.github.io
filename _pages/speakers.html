@@ -1,0 +1,28 @@
+---
+layout: page
+title: Speakers
+permalink: /speakers/
+body_class: speakers
+---
+<h1 class="margin-top-4">Past Speakers</h1>
+<p>Meet the team that volunteer their time, expertise, and passion to build a thriving community.</p>
+<div class="row card-grid">
+  {% assign speakers = site.data.speakers %}
+  {% for speaker in speakers %}
+  <div class="col-sm-4">
+    <div class="card">
+      <figure>
+        {% if speaker.image %}
+          <img src="{{ site.url }}/assets/images/speakers/{{ speaker.image }}">
+        {% else %}
+          <img src="{{ site.url }}/assets/images/speakers/vacant.jpg">
+        {% endif %}
+      </figure>
+      <div class="copy-holder">
+        <h3>{{ speaker.name }}</h3>
+        <p>{{ speaker.position }}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
