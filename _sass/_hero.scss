@@ -1,3 +1,58 @@
+// Test hero style for front page.
+#hero-home {
+  border-top: 1px solid #fff;
+  background: #404040;
+  overflow: hidden;
+  margin: 0;
+
+  h2,
+  p,
+  .hero-meta,
+  a {
+    color: #fff;
+  }
+
+  .container {
+    > .col-md-12 {
+      padding: 0;
+    }
+  }
+
+  .content-left {
+    background: #404040;
+    //padding: 3.7em
+    padding-top: 3em;
+  }
+
+  .hero-date {
+    border-bottom: 4px solid #07aff1;
+    color: #eaeaea;
+    display: inline-block;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+  }
+
+  .hero-cta {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  a.hero-cta:after {
+    background-image: linear-gradient(transparent, transparent), url(/assets/images/misc/right-arrow.svg);
+    color: #fff;
+    content: "";
+    display: inline-block;
+    height: 24px;
+    margin-left: 10px;
+    position: absolute;
+    right: -25px;
+    top: 0;
+    width: 24px;
+  }
+}
+
+// Old hero style. Commented out in events landing page.
+// Remove once we have a set hero style.
 #hero {
   position: relative;
   background-image: url(/assets/images/events/summer-gala-2017-02.png);
