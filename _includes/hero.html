@@ -1,0 +1,19 @@
+<section id="hero-home">
+  {% assign heroes = site.data.hero %}
+  {% for hero in heroes | limit:1 %}
+  <div class="container">
+    <div class="col-md-12">
+      <div class="col-md-6 content-left">
+        <div class="hero-date">{{ hero.date }}</div>
+        <h2><a href="{{ hero.url }}">{{ hero.title }}</a></h2>
+        <p>{{ hero.desc }}</p>
+        <a class="hero-cta" href="{{ hero.url }}">Read More</a>
+      </div>
+
+      <div class="col-md-6">
+        <a href="{{ hero.url }}"><img src="{{ hero.image }}"></a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</section>
