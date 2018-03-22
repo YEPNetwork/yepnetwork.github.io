@@ -1,4 +1,7 @@
--name: Marcus Samuelsson
+- name: Mesfin Getaneh
+  position: Founder and Chair
+  image: mesfin-getaneh.jpg
+- name: Marcus Samuelsson
   position: Chef and Restaurateur
   image: marcus-samuelsson.jpg
 - name: Mimi Alemayehou
@@ -15,7 +18,6 @@
   image: yohannes-abraham.png
 - name: Dr Menna Demessie
   position: Vice President of Policy and Research for the Congressional Black Caucus Foundation, Inc. (CBCF)
-  url: https://yepnetwork.github.io/diaspora-corner/menna-demessie/
   image: menna-demessie.jpg
 - name: Thomas Debass
   position: Acting Special Representative for Global Partnerships
@@ -29,24 +31,24 @@
 - name: Yeshimebeth Tutu Belay
   position: Entrepreneur and Founder of Ethiopian Yellow Pages
   image: tutu-belay.jpg
- - name: Noah Samara
+- name: Noah Samara
   position: Chief Executive Officer of Worldspace and The Founding Father of Satellite Radio
   image: noah_samara.jpg
-  - name: Bofta Yimam
+- name: Bofta Yimam
   position: TV Anchor, Speaker, Coach and 2013 Emmy Award Winning Journalist
   image: bofta-yimam.jpg
-  - name: Dr. Solomon Bililign
+- name: Dr. Solomon Bililign
   position:  Professor of Physics at North Carolina A&T State University 
   image: solomon-bililign.jpg
-  - name: Daniel Gad
+- name: Daniel Gad
   position: Owner of Omega Farms
   image: daniel-gad.jpg
-  - name: Tebabu Assefa
+- name: Tebabu Assefa
   position: Owner of Blessed Coffee
   image: tebabu-assefa.jpg
-  - name: Addis Alemayehou
+- name: Addis Alemayehou
   position: Founder and Managing Director of 251 Communications
   image: addis-alemayehou.jpg
-  - name: Messay Getahun
+- name: Messay Getahun
   position: Film Maker and Producer
   image: messay-getahun.jpg
