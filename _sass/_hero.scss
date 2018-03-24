@@ -31,21 +31,10 @@
   }
 
   .hero-cta {
-    font-weight: 600;
-    text-transform: uppercase;
-  }
-
-  a.hero-cta:after {
-    background-image: linear-gradient(transparent, transparent), url(/assets/images/misc/right-arrow.svg);
+    margin-top: 22px;
+    border: 2px solid #fff;
     color: #fff;
-    content: "";
-    display: inline-block;
-    height: 24px;
-    margin-left: 10px;
-    position: absolute;
-    right: -25px;
-    top: 0;
-    width: 24px;
+    background: transparent;
   }
 }
 
