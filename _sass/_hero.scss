@@ -20,6 +20,10 @@
 
   .content-left {
     padding-top: 3em;
+
+    > p {
+      opacity: 0.5;
+    }
   }
 
   .hero-date {
