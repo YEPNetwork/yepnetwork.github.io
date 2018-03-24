@@ -1,7 +1,7 @@
 // Test hero style for front page.
 #hero-home {
-  border-top: 1px solid #fff;
-  background: #404040;
+  border-top: 1px solid lighten( $site-secondary-color, 20% );
+  background: $site-secondary-color;
   overflow: hidden;
   margin: 0;
 
@@ -19,8 +19,6 @@
   }
 
   .content-left {
-    background: #404040;
-    //padding: 3.7em
     padding-top: 3em;
   }
 
