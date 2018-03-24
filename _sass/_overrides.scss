@@ -195,3 +195,15 @@ p.intro {
   font-weight: 400;
   margin-bottom: 1.5em;
 }
+
+// Remove top margin from page headers in about section.
+body.about {
+  h1 {
+    margin-top: 0;
+  }
+}
+body.team {
+  h1 {
+    margin-top: 0;
+  }
+}
