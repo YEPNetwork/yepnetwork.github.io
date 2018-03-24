@@ -23,7 +23,7 @@
   }
 
   .hero-date {
-    border-bottom: 4px solid #07aff1;
+    border-bottom: 4px solid lighten( $site-secondary-color, 40% );
     color: #eaeaea;
     display: inline-block;
     padding-bottom: 5px;
