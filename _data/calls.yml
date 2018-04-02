@@ -1,13 +1,10 @@
 # These are list of items that are displayed under "Get Involved" on homepage.
 - title: "Share/Find Job Opportunities "
   image: "assets/images/programs/diaspora-engagement.jpg"
-  description: "Bringing our community together to support the development of a cohesive network through various activities."
   url: 'https://yepnetwork.github.io/programs/career-development.html'
 - title: "Sharpen Your Skills"
   image: "assets/images/programs/personal-professional-empowerment.jpg"
-  description: "Providing the tools and resources that help members develop the confidence and strength to set realistic goals and fulfil their potential."
   url: 'https://yepnetwork.github.io/programs/personal-professional-empowerment.html'
 - title: "Become a Mentor/Mentee"
   image: "assets/images/programs/professional-mentorship.jpg"
-  description: "A platform that enables a professional learning relationship in which a mentor and a Mentee agree to a partnership where they work collaboratively towards the achievement of mutually-defined goals . This relationship will develop a mentee's skills, abilities, knowledge, and/or thinking."
   url: 'https://yepnetwork.github.io/programs/professional-mentorship.html'
