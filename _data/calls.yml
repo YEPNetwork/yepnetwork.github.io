@@ -1,6 +1,6 @@
 # These are list of items that are displayed under "Get Involved" on homepage.
 - title: "You’re Invited"
-  image: "assets/images/programs/diaspora-engagement.jpg"
+  image: "assets/images/programs/professional-mentorship.jpg"
   description: Learn something new and network at our upcoming event
   url: 'https://yepnetwork.github.io/events/'
 - title: "Sharpen Your Skills"
@@ -8,6 +8,6 @@
   url: 'https://yepnetwork.github.io/programs/personal-professional-empowerment.html'
   description: Empower yourself through personal and professional development
 - title: "Become a Mentor/Mentee"
-  image: "assets/images/programs/professional-mentorship.jpg"
+  image: "assets/images/programs/diaspora-engagement.jpg"
   url: 'https://yepnetwork.github.io/programs/professional-mentorship.html'
   description: Participate in a professional learning relationship in which a mentor and a Mentee agree to a partnership where they work collaboratively towards the achievement of mutually-defined goals .
