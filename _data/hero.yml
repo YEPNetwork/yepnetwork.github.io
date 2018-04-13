@@ -1,7 +1,7 @@
 # This is the hero on the front page. It will only show the first one.
 - title: 'YEP’s Business Idea Competition'
   date: 'Application Deadline: Monday, April 30, 2018 '
-  url: 'https://goo.gl/xh64gB'
+  url: 'https://yepnetwork.github.io/business-idea/'
   desc: 'YEP is happy to announce its 2nd Business Idea Competition.'
   image: /assets/images/hero/business_idea_competition.jpg
 - title: 'Lorem Ipsum'
