@@ -20,7 +20,8 @@ body_class: programs
   <section class="sub-navigation">
     <div class="container">
       <div class="row">
-        {% for program in site.programs limit:include.limit %}
+        {% assign programs = site.programs | sort: 'order' %}
+        {% for program in programs limit:include.limit %}
         <div class="col-sm-5 col-md-4" style="margin-bottom: 1em;">
           <div class="card">
             <a href="{{ program.url | prepend: site.baseurl }}">
