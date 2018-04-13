@@ -12,9 +12,9 @@ analytics: 'UA-99899073-1'
 collections:
   programs:
     output: true
+    permalink: /program/:title/
   events:
     output: true
-    permalink: /program/:title/
   people:
     output: true
   pages:
