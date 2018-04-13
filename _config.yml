@@ -38,8 +38,8 @@ about:
     class: team
     path: /about/team
 
-#  Programs section sub-nav.
-Programs:
+#  Program section sub-nav.
+Program:
   - title: Career Development
     class: career
     path: /program/career-development/
