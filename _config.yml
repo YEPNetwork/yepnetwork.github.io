@@ -38,6 +38,24 @@ about:
     class: team
     path: /about/team
 
+#  Programs section sub-nav.
+about:
+  - title: Career Development
+    class: career
+    path: /program/a_career-development/
+  - title: Personal Development
+    class: personal
+    path: /program/b_personal-professional-empowerment/
+  - title: Mentorship
+    class: mentorship
+    path: /program/c_professional-mentorship/
+  - title: Diaspora
+    class: diaspora
+    path: /program/d_diaspora-community-engagement/
+  - title: Recent Arrival
+    class: Recent
+    path: /program/e_recent-arrival/
+
 # Build settings.
 exclude:
   - Gemfile
