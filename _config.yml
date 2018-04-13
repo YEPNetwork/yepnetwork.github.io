@@ -53,7 +53,7 @@ program:
     class: diaspora
     path: /program/diaspora-community-engagement/
   - title: Recent Arrival
-    class: Recent
+    class: recent
     path: /program/recent-arrival/
 
 # Build settings.
