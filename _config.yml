@@ -39,7 +39,7 @@ about:
     path: /about/team
 
 #  Program section sub-nav.
-Program:
+program:
   - title: Career Development
     class: career
     path: /program/career-development/
