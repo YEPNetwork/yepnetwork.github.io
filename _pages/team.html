@@ -28,3 +28,27 @@ body_class: team
   </div>
   {% endfor %}
 </div>
+
+<h2>Past Team Members</h2>
+
+<div class="row card-grid">
+  {% assign persons = site.data.past-team-members %}
+  {% for person in persons %}
+  <div class="col-sm-4">
+    <div class="card">
+      <figure>
+        {% if person.image %}
+          <img src="{{ site.url }}/assets/images/team/{{ person.image }}">
+        {% else %}
+          <img src="{{ site.url }}/assets/images/team/vacant.jpg">
+        {% endif %}
+      </figure>
+      <div class="copy-holder">
+        <h3>{{ person.name }}</h3>
+        <p>{{ person.position }}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
