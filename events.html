@@ -6,25 +6,19 @@ group: navigation
 permalink: /events/
 body_class: events
 ---
-<!-- <div id="hero" style="background-image: url(/assets/images/events/women_power_hour.png); background-position: center 0px;">
-    <div class="container text-center"> 
-  <div class="hero-overlay"></div> 
-  <div class="hero-content-wrapper">  -->
-    <div class="container text-center"> 
-      <h2>YEP Events</h2>
-    </div>
-  </div>
-</div> 
+<div class="container text-center">
+  <h2>YEP Events</h2>
+</div>
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
-<div class="bg-gray overview">
+<div class="overview">
   <section class="sub-navigation">
     <div class="container">
       <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#menu1">Upcoming events</a></li>
         <li><a data-toggle="tab" href="#menu2">Past events</a></li>
       </ul>
-        <div class="tab-content">
+      <div class="tab-content">
         <div id="menu1" class="tab-pane fade in active">
           <div class="row margin-top-2">
           {% for event in site.data.events %}
