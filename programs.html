@@ -32,7 +32,7 @@ body_class: program
             </a>
             <h3>{{ program.title }}</h3>
             <p>{{ program.description | strip_html | truncatewords:18 }}</p>
-            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-default">Learn More</a>
+            <a href="{{ program.url | prepend: site.baseurl }}" class="btn btn-donate">Learn More</a>
           </div>
         </div>
         {% endfor %}
