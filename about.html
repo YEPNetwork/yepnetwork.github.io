@@ -7,6 +7,7 @@ permalink: /about/
 body_class: about
 sections:
   - title: YEPs Journey
+    head: History
     desc: YEP was founded in 2010 by three individuals who recognized the lack of effective networking platforms for the diverse Ethiopian professionals in the Washington Metropolitan area.
     image: assets/images/programs/leadership_team_2.jpg
     path: /about/history
@@ -71,7 +72,7 @@ sections:
                 </a>
                 <h3>{{ item.title }}</h3>
                 <p>{{ item.desc }}</p>
-                <a href="{{ item.path }}" class="btn btn-donate">{{ item.title }}</a>
+                <a href="{{ item.path }}" class="btn btn-donate">{{ item.head }}</a>
               </div>
             </div>
             {% endfor %}
