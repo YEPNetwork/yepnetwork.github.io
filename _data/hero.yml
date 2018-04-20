@@ -1,9 +1,9 @@
 # This is the hero on the front page. It will only show the first one.
-- title: 'YEP’s Business Idea Competition'
-  date: 'Application Deadline: Monday, April 30, 2018 '
-  url: 'https://yepnetwork.github.io/business-idea/'
-  desc: 'YEP is happy to announce its 2nd Business Idea Competition.'
-  image: /assets/images/hero/business_idea_competition.jpg
+- title: 'YEP’s Diaspora Engagement Series:'
+  date: 'EVENT DATE: Thursday, April 17, 2018'
+  url: 'https://yepnetwork.github.io/events/'
+  desc: 'Mental Health Awareness'
+  image: /assets/images/events/2018-03-22-influential-women-diaspora.jpg
 - title: 'Lorem Ipsum'
   date: 'Thursday, March 15, 2018'
   url: '/events/'
