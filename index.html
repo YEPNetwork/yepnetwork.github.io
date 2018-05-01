@@ -16,7 +16,7 @@ body_class: front
         {% assign items = site.data.calls %}
         {% for item in items limit:3 %}
         <div class="col-sm-5 col-md-4">
-          <div class="card">
+          <div class="card" style="min-height: 375px">
             <a href="{{ item.url | prepend: site.baseurl }}">
             <figure>
               <img src="{{ "/" | prepend: site.baseurl }}{{ item.image }}">
