@@ -1,8 +1,8 @@
 # This is the hero on the front page. It will only show the first one.
-- title: 'YEP’s Diaspora Engagement Series:'
-  date: 'EVENT DATE: Thursday, April 17, 2018'
+- title: 'The State of Mental Health in the Diaspora'
+  date: 'EVENT DATE: Thursday, May 17, 2018'
   url: 'https://yepnetwork.github.io/events/'
-  desc: 'Mental Health Awareness'
+  desc: 'YEP’s Diaspora Engagement Series'
   image: /assets/images/events/staying_fit_mentally.png
 - title: 'Lorem Ipsum'
   date: 'Thursday, March 15, 2018'
@@ -10,3 +10,4 @@
   desc: 'PCORI and the American Heart Association support research to improve treatment for heart disease, stroke, and vascular diseases.'
   desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus mollis nisi, vel laoreet erat. Nunc ultrices tortor in...'
   image: assets/images/hero/heart-in-hand.jpg
+  
