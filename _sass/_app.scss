@@ -3373,9 +3373,6 @@ p.button .btn-expander {
     font-size: 16px;
     font-size: 1.6rem;
   }
-  .overview section.sub-navigation .card {
-    min-height: 485px;
-  }
   .events-archive .recent-posts .grid-block,
   .related-posts .recent-posts .grid-block,
   .archive .recent-posts .grid-block {
@@ -3394,7 +3391,18 @@ p.button .btn-expander {
   }
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .overview section.sub-navigation .card {
+    // Don't want too much whitespace when on 320x568 (iPhone 5)
+    // or 414x736 (iPhone 8). This applies to both.
+    min-height: 425px;
+  }
+}
 
-@media (max-width: 321px) {}
+@media (max-width: 321px) {
+  .overview section.sub-navigation .card {
+    // This would only apply in 320x568.
+    //min-height: 295px;
+  }
+}
 
