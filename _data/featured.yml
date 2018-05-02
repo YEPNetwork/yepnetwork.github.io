@@ -1,5 +1,5 @@
 - title: "Last Month Event: YEP Women's Power Hour"
-  url: https://yepnetwork.github.io/events/ 
+  url: /events/
   image: assets/images/hero/about_us_1.png
 - title: "Diaspora Story: Mignotae Kebede"
   url: /diaspora-corner/mignotae-kebede/
@@ -10,4 +10,4 @@
 - title: Meet the YEP Team
   url: /about/team/
   image: assets/images/team.jpg
-  
+

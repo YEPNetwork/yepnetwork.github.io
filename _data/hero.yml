@@ -1,7 +1,7 @@
 # This is the hero on the front page. It will only show the first one.
 - title: 'The State of Mental Health in the Diaspora'
   date: 'EVENT DATE: Thursday, May 17, 2018'
-  url: 'https://yepnetwork.github.io/events/'
+  url: '/events/'
   desc: 'YEP’s Diaspora Engagement Series'
   image: /assets/images/events/staying_fit_mentally.png
 - title: 'Lorem Ipsum'

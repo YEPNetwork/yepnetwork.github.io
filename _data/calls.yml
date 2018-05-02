@@ -2,12 +2,12 @@
 - title: "You’re Invited"
   image: "assets/images/programs/professional-mentorship.jpg"
   description: Learn something new and network at our upcoming event.
-  url: 'https://yepnetwork.github.io/events/'
+  url: '/events/'
 - title: "Be a Better You"
   image: "assets/images/programs/personal-professional-empowerment.jpg"
-  url: 'https://yepnetwork.github.io/programs/'
+  url: '/programs/'
   description: Learn about different programs that meet your needs and interests. 
 - title: "Win $1000"
   image: "assets/images/hero/business_idea_competition_2.png"
-  url: 'https://yepnetwork.github.io/business-idea/'
+  url: '/business-idea/'
   description: Enter YEP's Business Idea Competition for a chance at a cash prize and valuable mentorship. 
