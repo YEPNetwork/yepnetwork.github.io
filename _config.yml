@@ -25,7 +25,7 @@ collections:
 
 # About section sub-nav.
 about:
-  - title: Mission & Vision  
+  - title: Mission & Vision
     class: mission
     path: /about/mission
   - title: Our History
@@ -66,3 +66,7 @@ exclude:
   - package-lock.json
   - CNAME
   - README.md
+
+# From Redirect
+gems:
+  - jekyll-redirect-from
