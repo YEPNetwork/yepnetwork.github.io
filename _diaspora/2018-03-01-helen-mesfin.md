@@ -10,9 +10,7 @@ Helen was born and raised in Addis Ababa Ethiopia.  At the age of 17, she travel
 
 She is an active member of numerous Professional Industry associations in Tourism and Meetings industry, such as PCMA, AMPs, and ASAE volunteering at various committees and board in and around the Washington DC area.
 
-In addition, Helen hosts a weekly Amharic talk-show on EBS (Ethiopian Broadcasting Services). The show addresses various socio-economic, health, education and family issues within the Ethiopian community. The show aims to inform, inspire, and empower Ethiopians around the world. Guests are leaders in their chosen careers, change agents in their communities, and are making positive contributions to our society.  Currently in its 7th season the show is a platform where ideas, wins, and challenges can be addressed, often covering issues that have been a taboo in our community, addressing them in culturally sensitive way and becoming a trusted information source.
- 
-Besides her professional accomplishment, Helen is a longtime resident of Washington DC with her husband and their two children.
+In addition, Helen hosts a weekly Amharic talk-show on EBS (Ethiopian Broadcasting Services). The show addresses various socio-economic, health, education and family issues within the Ethiopian community. The show aims to inform, inspire, and empower Ethiopians around the world. Guests are leaders in their chosen careers, change agents in their communities, and are making positive contributions to our society.  Currently in its 7th season the show is a platform where ideas, wins, and challenges can be addressed, often covering issues that have been a taboo in our community, addressing them in culturally sensitive way and becoming a trusted information source.Besides her professional accomplishment, Helen is a longtime resident of Washington DC with her husband and their two children.
 
 
 ## Helen Mesfin in her own words
