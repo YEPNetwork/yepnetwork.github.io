@@ -1,9 +1,9 @@
 # This is the hero on the front page. It will only show the first one.
-- title: 'The State of Mental Health in the Diaspora'
-  date: 'EVENT DATE: Thursday, May 17, 2018'
-  url: '/events/'
-  desc: 'YEP’s Diaspora Engagement Series'
-  image: /assets/images/events/staying_fit_mentally.png
+- title: 'Diaspora Corner'
+  date: 'Diaspora Highlight: Helen Mesfin'
+  url: 'diaspora-corner/'
+  desc: 'Diaspora Corner is a blog where we highlight the accomplishments and perspectives of movers and shakers of the the diaspora.Read their stories and get your dose of inspiration.'
+  image: /assets/images/diaspora/helen-mesfin.jpg
 - title: 'Lorem Ipsum'
   date: 'Thursday, March 15, 2018'
   url: '/events/'
