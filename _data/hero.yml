@@ -1,14 +1,14 @@
 # This is the hero on the front page. It will only show the first one.
-- title: 'YEP Open Mic and Happy Hour'
-  date: 'THURSDAY, June 28, 2018 @ 5:30 PM'
-  url: '/events/'
-  desc: 'Young Ethiopian Professionals Network (YEP) hosts an open mic night featuring invited local artists and your talent. The purpose of the open mic night is to give a platform our aspiring and upcoming artists to showcase their talents. The open mic is open to all artists including but not limited to poets, singers, poets, comedians, writers, story tellers....etc. and can be presented in any of Ethiopian languges or/and English.'
-  image: /assets/images/events/YEP OpenMic_June.png
 - title: 'Diaspora Corner'
   date: 'Diaspora Highlight: Helen Mesfin'
   url: 'diaspora-corner/helen-mesfin/'
   desc: 'Diaspora Corner is a blog where we highlight the accomplishments and perspectives of movers and shakers of the the diaspora.Read their stories and get your dose of inspiration.'
   image: /assets/images/diaspora/helen-mesfin-portrait.jpg
+- title: 'YEP Open Mic and Happy Hour'
+  date: 'THURSDAY, June 28, 2018 @ 5:30 PM'
+  url: '/events/'
+  desc: 'Young Ethiopian Professionals Network (YEP) hosts an open mic night featuring invited local artists and your talent. The purpose of the open mic night is to give a platform our aspiring and upcoming artists to showcase their talents. The open mic is open to all artists including but not limited to poets, singers, poets, comedians, writers, story tellers....etc. and can be presented in any of Ethiopian languges or/and English.'
+  image: /assets/images/events/YEP OpenMic_June.png
 - title: 'Lorem Ipsum'
   date: 'Thursday, March 15, 2018'
   url: '/events/'
