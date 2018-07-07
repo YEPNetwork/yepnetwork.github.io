@@ -37,12 +37,12 @@
 - name: Dr. Solomon Bililign
   position:  Professor of Physics at North Carolina A&T State University 
   image: solomon-bililign.jpg
-- name: Daniel Gad
-  position: Owner of Omega Farms
-  image: daniel-gad.jpg
 - name: Helen Mesfin
   position: Producer and Host of Helen Show at EBS
   image: helen-mesfin.jpg
+- name: Daniel Gad
+  position: Owner of Omega Farms
+  image: daniel-gad.jpg
 - name: Tebabu Assefa
   position: Owner of Blessed Coffee
   image: tebabu-assefa.jpg
