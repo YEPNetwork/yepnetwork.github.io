@@ -1,7 +1,7 @@
 # These are list of items that are displayed under "Get Involved" on homepage.
 - title: "You’re Invited"
   image: "assets/images/programs/professional-mentorship.jpg"
-  description: Learn something new and network at our upcoming event.
+  description: Learn something new and network at our upcoming even.
   url: '/events/'
 - title: "Be a Better You"
   image: "assets/images/programs/personal-professional-empowerment.jpg"
