@@ -3,6 +3,6 @@
 layout: default
 title: Gallery
 permalink: /forms/
-body_class: gallery
+body_class: donate
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhBT9HtObdXSEXr6IH9C3kAowppivBLAoHH8OpBiBWuC9w7g/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
