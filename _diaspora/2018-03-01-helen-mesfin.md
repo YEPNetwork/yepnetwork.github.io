@@ -15,7 +15,7 @@ In addition, Helen hosts a weekly Amharic talk-show on EBS (Ethiopian Broadcasti
 
 ## Helen Mesfin in her own words
 
-### 1. Being apart of the Ethiopian diaspora to me means.
+### 1. Being a part of the Ethiopian diaspora to me means.
 
 Being part of the Ethiopian diaspora to me means being part of a community that aspires to achieve,  to grow and to belong. It means sharing and celebrating the rich culture and diversity within our community with the world. It means showing strength and resilience against all odds as immigrants in our adopted land building a better future for the next generation. Our greater strength is our unity and our willingness to support and uplift one another, building bridges between our communities and our homeland.  It's being proud of heritage, owning who we are whatever our background or circumstances with a belief that we can do whatever we set our mind to because we can.  
 
